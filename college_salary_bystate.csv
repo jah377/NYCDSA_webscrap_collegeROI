@@ -1,0 +1,2867 @@
+state_name,degree_type,college_name,early_salary,mid_salary,per_stem
+Alabama,bachelors,Auburn University,54400,104500,31
+Alabama,bachelors,University of Alabama in Huntsville,57500,103900,45
+Alabama,bachelors,The University of Alabama,52300,97400,15
+Alabama,bachelors,Tuskegee University,54500,93500,30
+Alabama,bachelors,Samford University,48400,90500,3
+Alabama,bachelors,Spring Hill College,46600,89100,12
+Alabama,bachelors,Birmingham Southern College,49100,88300,27
+Alabama,bachelors,University of Alabama at Birmingham,48600,87200,17
+Alabama,bachelors,University of South Alabama,47700,86400,17
+Alabama,bachelors,Alabama A & M University,48700,83500,20
+Alabama,bachelors,Troy University,44500,81500,8
+Alabama,bachelors,Jacksonville State University,43800,80000,7
+Alabama,bachelors,Auburn University at Montgomery,45000,79600,12
+Alabama,bachelors,Huntingdon College,42400,78900,14
+Alabama,bachelors,Oakwood University,43500,78800,16
+Alabama,bachelors,Athens State University,45000,78800,9
+Alabama,bachelors,University of West Alabama,42700,76100,4
+Alabama,bachelors,University of North Alabama,43000,75600,6
+Alabama,bachelors,University of Mobile,40600,74100,7
+Alabama,bachelors,Alabama State University,39800,71500,16
+Alabama,bachelors,Faulkner University,39400,71300,2
+Alabama,bachelors,University of Montevallo,38900,70700,7
+Alabama,bachelors,Judson College,37900,67600,13
+Alabama,bachelors,Amridge University,35700,65900,0
+Alabama,bachelors,Miles College,34800,65100,19
+Alabama,bachelors,Stillman College,35600,63500,24
+Alabama,bachelors,Talladega College,34100,62800,22
+Alabama,associates,University of West Alabama,48300,67400,4
+Alabama,associates,Herzing University-Birmingham,39800,62700,4
+Alabama,associates,Troy University,39600,62300,8
+Alabama,associates,George C Wallace State Community College-Hanceville,41600,60700,2
+Alabama,associates,George C Wallace State Community College-Selma,40100,60200,0
+Alabama,associates,Jefferson Davis Community College,42500,59600,0
+Alabama,associates,George C Wallace Community College-Dothan,38700,58800,2
+Alabama,associates,John C Calhoun State Community College,38300,58400,2
+Alabama,associates,Gadsden State Community College,37900,58200,2
+Alabama,associates,Northwest-Shoals Community College,39400,57400,1
+Alabama,associates,Alabama Southern Community College,38800,57400,0
+Alabama,associates,Chattahoochee Valley Community College,38100,57300,2
+Alabama,associates,Remington College-Mobile Campus,36700,57100,4
+Alabama,associates,Bevill State Community College,39500,57000,3
+Alabama,associates,Lurleen B Wallace Community College,36700,56500,3
+Alabama,associates,Jefferson State Community College,38100,56500,5
+Alabama,associates,Enterprise State Community College,35700,55900,0
+Alabama,associates,Central Alabama Community College,39000,55500,1
+Alabama,associates,Southern Union State Community College,38700,55300,0
+Alabama,associates,Bishop State Community College,40700,55100,2
+Alabama,associates,J. F. Drake State Community and Technical College,37500,54500,8
+Alabama,associates,Shelton State Community College,38800,54300,0
+Alabama,associates,Northeast Alabama Community College,35400,53700,1
+Alabama,associates,Lawson State Community College-Birmingham Campus,35700,53100,4
+Alabama,associates,Faulkner University,34300,50500,2
+Alabama,associates,Snead State Community College,34500,49800,5
+Alabama,associates,Coastal Alabama Community College,33200,48900,2
+Alaska,bachelors,University of Alaska Fairbanks,59100,101800,20
+Alaska,bachelors,University of Alaska Anchorage,56000,101000,10
+Alaska,bachelors,Alaska Pacific University,50300,90000,6
+Alaska,associates,University of Alaska Fairbanks,47900,70400,20
+Alaska,associates,University of Alaska Anchorage,49100,70400,10
+Alaska,associates,University of Alaska Southeast,42100,61900,3
+Arizona,bachelors,Embry-Riddle Aeronautical University-Prescott,65600,117900,43
+Arizona,bachelors,University of Arizona,56100,101000,23
+Arizona,bachelors,Arizona State University-Tempe,54500,100900,30
+Arizona,bachelors,Northern Arizona University,49600,90000,12
+Arizona,bachelors,Arizona Christian University,42600,76600,7
+Arizona,bachelors,Ottawa University-Phoenix,42000,74600,0
+Arizona,bachelors,Prescott College,41200,73500,0
+Arizona,associates,Glendale Community College (Arizona),48900,74100,7
+Arizona,associates,GateWay Community College,48400,70000,2
+Arizona,associates,Mesa Community College,42600,66200,9
+Arizona,associates,Cochise County Community College District,47500,65800,2
+Arizona,associates,Rio Salado College,44200,64900,6
+Arizona,associates,Phoenix College,42600,64300,5
+Arizona,associates,Arizona Western College,42600,63100,4
+Arizona,associates,Eastern Arizona College,43300,62700,1
+Arizona,associates,Chandler-Gilbert Community College,42200,62500,11
+Arizona,associates,Scottsdale Community College,42100,60700,7
+Arizona,associates,Pima Community College,40800,60300,2
+Arizona,associates,Paradise Valley Community College,39300,59900,6
+Arizona,associates,Central Arizona College,40900,58800,1
+Arizona,associates,Yavapai College,40100,57400,3
+Arizona,associates,Mohave Community College,41500,56700,5
+Arkansas,bachelors,University of Arkansas,52500,98000,18
+Arkansas,bachelors,Hendrix College,48100,90300,33
+Arkansas,bachelors,University of Arkansas for Medical Sciences,51700,89100,3
+Arkansas,bachelors,Harding University,49200,88600,10
+Arkansas,bachelors,John Brown University,47000,82700,9
+Arkansas,bachelors,Arkansas State University-Main Campus,44600,81400,7
+Arkansas,bachelors,University of Arkansas at Little Rock,45600,80800,13
+Arkansas,bachelors,Ouachita Baptist University,44100,80200,18
+Arkansas,bachelors,Southern Arkansas University Main Campus,42800,80100,53
+Arkansas,bachelors,Henderson State University,42900,79800,5
+Arkansas,bachelors,University of Central Arkansas,44900,79800,8
+Arkansas,bachelors,University of Arkansas at Monticello,43500,78300,2
+Arkansas,bachelors,Arkansas Tech University,45000,76900,7
+Arkansas,bachelors,University of the Ozarks,42300,74500,16
+Arkansas,bachelors,Lyon College,41200,74300,33
+Arkansas,bachelors,University of Arkansas-Fort Smith,40700,71100,9
+Arkansas,bachelors,University of Arkansas at Pine Bluff,40500,70500,22
+Arkansas,bachelors,Central Baptist College,36900,68000,3
+Arkansas,bachelors,Philander Smith College,34600,61200,26
+Arkansas,associates,Southern Arkansas University Main Campus,43500,66100,53
+Arkansas,associates,University of Arkansas at Little Rock,42000,62900,13
+Arkansas,associates,University of Arkansas for Medical Sciences,40100,60000,3
+Arkansas,associates,University of Arkansas-Fort Smith,40200,59800,9
+Arkansas,associates,University of Central Arkansas,39000,59600,8
+Arkansas,associates,Arkansas State University-Main Campus,39600,59100,7
+Arkansas,associates,University of Arkansas at Monticello,39000,57900,2
+Arkansas,associates,NorthWest Arkansas Community College,37400,57700,2
+Arkansas,associates,North Arkansas College,39000,57700,3
+Arkansas,associates,Southern Arkansas University Tech,35200,55800,12
+Arkansas,associates,Arkansas Northeastern College,38500,55600,0
+Arkansas,associates,South Arkansas Community College,37300,55500,3
+Arkansas,associates,National Park College,36900,55500,5
+Arkansas,associates,Arkansas Tech University,35100,54900,7
+Arkansas,associates,College of the Ouachitas,37500,54800,0
+Arkansas,associates,East Arkansas Community College,35500,53500,0
+Arkansas,associates,Phillips Community College of the University of Arkansas,33000,51200,1
+Arkansas,associates,Black River Technical College,33500,50800,1
+Arkansas,associates,University of Arkansas Community College-Hope,32800,50700,2
+Arkansas,associates,University of Arkansas-Pulaski Technical College,33500,48200,4
+California,bachelors,Harvey Mudd College,88800,158200,85
+California,bachelors,Samuel Merritt University,91200,154100,0
+California,bachelors,California Institute of Technology,84100,151600,97
+California,bachelors,Stanford University,79000,145200,51
+California,bachelors,Charles R Drew University of Medicine and Science,78300,135700,3
+California,bachelors,Santa Clara University,69900,134700,29
+California,bachelors,University of California-Berkeley,70700,131800,36
+California,bachelors,California State University Maritime Academy,70500,129600,15
+California,bachelors,Claremont McKenna College,68500,125400,16
+California,bachelors,University of California-San Diego,63400,123700,58
+California,bachelors,University of Southern California,64500,120600,23
+California,bachelors,California Polytechnic State University-San Luis Obispo,65600,119500,38
+California,bachelors,Pomona College,63800,117200,37
+California,bachelors,University of California-Santa Barbara,59700,116300,29
+California,bachelors,University of California-Los Angeles,62000,116100,31
+California,bachelors,University of California-Irvine,59600,116000,34
+California,bachelors,San Jose State University,63000,114700,28
+California,bachelors,Loyola Marymount University,58500,113300,9
+California,bachelors,University of California-Davis,61500,112600,35
+California,bachelors,Menlo College,61900,112400,0
+California,bachelors,California State Polytechnic University-Pomona,57700,110800,30
+California,bachelors,Saint Mary's College of California,59900,110800,5
+California,bachelors,University of San Francisco,60600,109900,6
+California,bachelors,Golden Gate University-San Francisco,59200,109800,3
+California,bachelors,University of San Diego,58900,109400,12
+California,bachelors,University of the Pacific,59100,109300,16
+California,bachelors,Loma Linda University,66300,109200,3
+California,bachelors,University of California-Riverside,55900,106900,31
+California,bachelors,Art Center College of Design,63200,106100,4
+California,bachelors,Occidental College,56300,105700,25
+California,bachelors,California State University-Chico,56900,105100,13
+California,bachelors,University of California-Santa Cruz,58100,104700,38
+California,bachelors,Pepperdine University,58300,103900,7
+California,bachelors,California State University-East Bay,56600,103500,12
+California,bachelors,Coleman University,59400,103500,80
+California,bachelors,California College of the Arts,58900,103300,0
+California,bachelors,San Diego State University,55100,102800,16
+California,bachelors,Westmont College,54400,102400,18
+California,bachelors,University of Redlands,55400,102400,4
+California,bachelors,California State University-Long Beach,52700,101700,16
+California,bachelors,California State University-Sacramento,54400,101100,16
+California,bachelors,Notre Dame de Namur University,55900,99700,11
+California,bachelors,San Francisco State University,56900,99500,14
+California,bachelors,Chapman University,53700,99400,5
+California,bachelors,Scripps College,54700,98600,28
+California,bachelors,California State University-Fullerton,51200,98400,15
+California,bachelors,Southern California Institute of Architecture,53600,98400,0
+California,bachelors,Mount Saint Mary's University,53800,97500,4
+California,bachelors,Pacific Union College,54700,97400,9
+California,bachelors,California State University-Fresno,51100,97300,10
+California,bachelors,California State University-Northridge,51200,97300,12
+California,bachelors,Otis College of Art and Design,54000,97200,0
+California,bachelors,Sonoma State University,53400,97100,10
+California,bachelors,Pitzer College,53200,96600,18
+California,bachelors,John F. Kennedy University,53200,96500,0
+California,bachelors,Dominican University of California,55300,95900,9
+California,bachelors,Whittier College,51100,95600,9
+California,bachelors,California Lutheran University,52500,95000,11
+California,bachelors,California State University-San Marcos,52000,94700,14
+California,bachelors,National University,53400,94700,6
+California,bachelors,Laguna College of Art and Design,53600,94700,0
+California,bachelors,California State University-Stanislaus,50100,94200,9
+California,bachelors,California State University-Los Angeles,50300,93800,19
+California,bachelors,Thomas Aquinas College,51700,93300,0
+California,bachelors,Biola University,50200,92500,7
+California,bachelors,Woodbury University,50500,92100,0
+California,bachelors,Holy Names University,51200,91500,2
+California,bachelors,Mills College,52000,91200,9
+California,bachelors,California Institute of the Arts,52500,91000,2
+California,bachelors,California State University-Channel Islands,50800,90900,14
+California,bachelors,California State University-Bakersfield,50100,90900,13
+California,bachelors,University of La Verne,49000,90500,4
+California,bachelors,Point Loma Nazarene University,52400,90100,9
+California,bachelors,California State University-Monterey Bay,49800,89900,13
+California,bachelors,Concordia University-Irvine,49800,89800,2
+California,bachelors,San Francisco Art Institute,49800,89600,0
+California,bachelors,Humboldt State University,47200,89000,18
+California,bachelors,California State University-Dominguez Hills,47800,88400,6
+California,bachelors,Marymount California University,48700,88100,0
+California,bachelors,California State University-San Bernardino,48800,87500,9
+California,bachelors,La Sierra University,49900,87500,8
+California,bachelors,The Master's University and Seminary,48500,86600,7
+California,bachelors,Azusa Pacific University,49900,85700,3
+California,bachelors,Vanguard University of Southern California,48300,85600,3
+California,bachelors,Antioch University-Los Angeles,46300,82600,8
+California,bachelors,California Baptist University,46900,81600,9
+California,bachelors,Hope International University,43600,80400,0
+California,bachelors,Fresno Pacific University,44600,79300,2
+California,bachelors,San Diego Christian College,43900,79100,3
+California,bachelors,Brandman University,44100,78000,1
+California,bachelors,Humphreys University-Stockton and Modesto Campuses,43100,77900,0
+California,bachelors,Simpson University,43200,77300,3
+California,bachelors,William Jessup University,42900,77300,5
+California,bachelors,Azusa Pacific University College,42900,76400,0
+California,bachelors,Life Pacific College,39900,70600,0
+California,bachelors,Pacific Oaks College,34900,63100,0
+California,associates,Pacific Union College,66900,90400,9
+California,associates,Mount Saint Mary's University,60200,80400,4
+California,associates,Loma Linda University,59700,80400,3
+California,associates,Coleman University,51300,76600,80
+California,associates,Evergreen Valley College,49700,76400,8
+California,associates,De Anza College,52100,75500,4
+California,associates,Cabrillo College,48900,75100,9
+California,associates,Diablo Valley College,46200,74800,13
+California,associates,Saddleback College,45700,74300,4
+California,associates,Foothill College,52200,73900,4
+California,associates,West Valley College,46300,73800,5
+California,associates,College of San Mateo,51400,73700,11
+California,associates,Orange Coast College,45000,72900,9
+California,associates,City College of San Francisco,50200,72600,10
+California,associates,Taft College,48900,71800,14
+California,associates,Chabot College,47100,71500,7
+California,associates,Moorpark College,44700,71400,6
+California,associates,Napa Valley College,48300,71000,2
+California,associates,Ohlone College,47900,71000,27
+California,associates,Sacramento City College,47300,71000,10
+California,associates,Bakersfield College,46300,70900,6
+California,associates,Canada College,48400,70600,7
+California,associates,Grossmont College,46800,70400,3
+California,associates,Victor Valley College,45900,69600,2
+California,associates,Skyline College,45300,69500,4
+California,associates,Cypress College,44400,69500,6
+California,associates,Mission College,49100,69300,21
+California,associates,Los Angeles Harbor College,44100,68900,1
+California,associates,Antelope Valley College,43500,68800,9
+California,associates,El Camino College-Compton Center,43400,68700,1
+California,associates,San Jose City College,43200,68600,4
+California,associates,Las Positas College,44600,68400,8
+California,associates,College of the Canyons,44500,68400,6
+California,associates,Marymount California University,46900,68400,0
+California,associates,College of Marin,44800,68400,1
+California,associates,Coastline Community College,46400,68300,4
+California,associates,College of the Desert,45600,68300,5
+California,associates,Santa Rosa Junior College,44700,68100,3
+California,associates,Santa Monica College,45400,67600,2
+California,associates,Los Medanos College,45500,67500,5
+California,associates,Long Beach City College,44000,67400,10
+California,associates,American River College,42100,67200,6
+California,associates,Laney College,43200,67100,4
+California,associates,Ventura College,43800,66800,3
+California,associates,Solano Community College,44500,66600,4
+California,associates,Santa Barbara City College,45500,66500,6
+California,associates,Cerritos College,42500,66400,3
+California,associates,Golden West College,46200,66400,2
+California,associates,West Los Angeles College,43300,66300,6
+California,associates,El Camino Community College District,45000,66200,8
+California,associates,Pasadena City College,44600,65900,2
+California,associates,San Joaquin Delta College,42000,65800,2
+California,associates,Los Angeles Pierce College,43300,65800,3
+California,associates,San Diego City College,46000,65700,10
+California,associates,Contra Costa College,44100,65600,9
+California,associates,Mt San Antonio College,42100,65600,7
+California,associates,Riverside City College,42300,65600,2
+California,associates,San Diego Miramar College,44100,65500,17
+California,associates,Los Angeles Valley College,43600,65500,3
+California,associates,Fullerton College,40900,65200,5
+California,associates,Fresno City College,43700,65100,6
+California,associates,College of Alameda,44600,64800,3
+California,associates,Irvine Valley College,43700,64800,6
+California,associates,Monterey Peninsula College,45000,64700,9
+California,associates,Los Angeles Trade Technical College,41600,64700,3
+California,associates,San Bernardino Valley College,40700,64500,5
+California,associates,Los Angeles City College,44100,64500,4
+California,associates,Palomar College,43000,64400,3
+California,associates,Modesto Junior College,42700,64400,5
+California,associates,Merced College,42100,64400,3
+California,associates,Hartnell College,43000,64300,6
+California,associates,East Los Angeles College,41900,63900,1
+California,associates,College of the Sequoias,42200,63500,3
+California,associates,MiraCosta College,42800,63500,2
+California,associates,Yuba College,40800,63400,2
+California,associates,Rio Hondo College,40800,63300,3
+California,associates,San Diego Mesa College,41700,63000,10
+California,associates,Santa Ana College,43900,62800,4
+California,associates,Merritt College,46300,62400,1
+California,associates,Berkeley City College,43700,62300,5
+California,associates,Cuesta College,42300,62300,6
+California,associates,Sierra College,41200,62200,8
+California,associates,Los Angeles Southwest College,42100,62200,1
+California,associates,College of the Siskiyous,44800,61800,2
+California,associates,Chaffey College,39200,61700,7
+California,associates,Butte College,41300,61700,4
+California,associates,Citrus College,39600,61600,2
+California,associates,Gavilan College,41000,61600,3
+California,associates,Cuyamaca College,41200,61400,7
+California,associates,Southwestern College (California),41500,61300,4
+California,associates,Los Angeles Mission College,40400,61300,3
+California,associates,College of the Redwoods,40400,61200,1
+California,associates,Glendale Community College (California),40000,61200,4
+California,associates,Oxnard College,41000,61100,5
+California,associates,Santiago Canyon College,39100,60400,5
+California,associates,Mendocino College,40900,60400,4
+California,associates,Imperial Valley College,41400,60100,3
+California,associates,National University,41600,59900,6
+California,associates,California College San Diego,41000,59800,21
+California,associates,Allan Hancock College,39400,59800,5
+California,associates,Mt San Jacinto Community College District,39600,59800,4
+California,associates,Cerro Coso Community College,42000,59400,8
+California,associates,Cosumnes River College,38700,59100,10
+California,associates,Crafton Hills College,38100,58900,8
+California,associates,Lassen Community College,38700,57900,1
+California,associates,Feather River Community College District,37900,57500,3
+California,associates,Shasta College,37800,57100,2
+California,associates,Barstow Community College,37700,55600,0
+California,associates,Humphreys University-Stockton and Modesto Campuses,35800,54400,0
+California,associates,Reedley College,36200,54000,18
+California,associates,Porterville College,34400,52700,3
+Colorado,bachelors,Colorado School of Mines,75600,139600,93
+Colorado,bachelors,United States Air Force Academy,76300,138100,43
+Colorado,bachelors,University of Colorado Boulder,57800,109900,39
+Colorado,bachelors,University of Denver,55700,105100,12
+Colorado,bachelors,Colorado College,53100,97900,23
+Colorado,bachelors,Colorado State University-Fort Collins,53500,96100,28
+Colorado,bachelors,University of Colorado Denver/Anschutz Medical Campus,53200,95600,17
+Colorado,bachelors,Regis University,55500,94800,13
+Colorado,bachelors,University of Colorado Colorado Springs,52200,90900,21
+Colorado,bachelors,Colorado State University-Pueblo,48100,87600,13
+Colorado,bachelors,Metropolitan State University of Denver,49400,87200,11
+Colorado,bachelors,University of Northern Colorado,47700,87100,7
+Colorado,bachelors,Fort Lewis College,48300,82600,19
+Colorado,bachelors,Western State Colorado University,44800,81500,19
+Colorado,bachelors,Colorado Mesa University,47800,81500,7
+Colorado,bachelors,Adams State University,44400,81400,3
+Colorado,bachelors,Colorado Christian University,46800,80100,2
+Colorado,bachelors,Johnson & Wales University-Denver,41500,74800,0
+Colorado,bachelors,Nazarene Bible College,33600,60100,0
+Colorado,associates,Colorado Northwestern Community College,56600,78400,0
+Colorado,associates,Community College of Denver,44800,67300,1
+Colorado,associates,Trinidad State Junior College,42100,65800,0
+Colorado,associates,Morgan Community College,45600,65200,0
+Colorado,associates,Arapahoe Community College,45100,65100,3
+Colorado,associates,Front Range Community College,42200,63900,6
+Colorado,associates,Colorado Mesa University,43500,63600,7
+Colorado,associates,Red Rocks Community College,43400,63000,3
+Colorado,associates,Colorado Christian University,41400,60500,2
+Colorado,associates,Pueblo Community College,44000,60500,10
+Colorado,associates,Altierus Career College-Thornton,40300,60000,0
+Colorado,associates,Pikes Peak Community College,37400,59000,4
+Colorado,associates,Aims Community College,40200,58900,1
+Colorado,associates,Colorado Mountain College,41100,58600,2
+Colorado,associates,Community College of Aurora,39200,58400,4
+Colorado,associates,Lamar Community College,37800,55300,0
+Colorado,associates,Otero Junior College,39300,55200,0
+Colorado,associates,Northeastern Junior College,37000,54400,0
+Colorado,associates,Johnson & Wales University-Denver,35300,54000,0
+Connecticut,bachelors,Yale University,70300,138300,22
+Connecticut,bachelors,United States Coast Guard Academy,67300,118100,69
+Connecticut,bachelors,Wesleyan University,61600,117000,21
+Connecticut,bachelors,Fairfield University,62300,116900,17
+Connecticut,bachelors,Trinity College,60100,110900,22
+Connecticut,bachelors,University of Connecticut,59100,105200,24
+Connecticut,bachelors,University of Hartford,55200,101600,15
+Connecticut,bachelors,Connecticut College,57500,100800,30
+Connecticut,bachelors,Sacred Heart University,55000,100500,15
+Connecticut,bachelors,Quinnipiac University,55900,97700,10
+Connecticut,bachelors,University of New Haven,52100,94800,25
+Connecticut,bachelors,Central Connecticut State University,53100,93700,15
+Connecticut,bachelors,University of Bridgeport,49900,93600,31
+Connecticut,bachelors,University of Saint Joseph,49900,88800,9
+Connecticut,bachelors,Western Connecticut State University,51700,88100,6
+Connecticut,bachelors,St Vincent's College,46800,87900,0
+Connecticut,bachelors,Eastern Connecticut State University,49200,87800,14
+Connecticut,bachelors,Charter Oak State College,49200,85900,2
+Connecticut,bachelors,Albertus Magnus College,49700,85900,2
+Connecticut,bachelors,Southern Connecticut State University,48500,83600,6
+Connecticut,associates,St Vincent's College,57300,77900,0
+Connecticut,associates,University of Bridgeport,49700,73400,31
+Connecticut,associates,Eastern Connecticut State University,49900,73200,14
+Connecticut,associates,University of Hartford,46100,70500,15
+Connecticut,associates,Sacred Heart University,50600,70300,15
+Connecticut,associates,Norwalk Community College,45900,68900,9
+Connecticut,associates,University of Connecticut,44700,67800,24
+Connecticut,associates,Capital Community College,47300,67500,4
+Connecticut,associates,Western Connecticut State University,45400,67200,6
+Connecticut,associates,Albertus Magnus College,45500,65200,2
+Connecticut,associates,Three Rivers Community College,45400,65100,1
+Connecticut,associates,Goodwin College,47300,64500,0
+Connecticut,associates,Naugatuck Valley Community College,44500,64300,2
+Connecticut,associates,Asnuntuck Community College,42100,64100,1
+Connecticut,associates,Tunxis Community College,42300,63600,3
+Connecticut,associates,Manchester Community College (Connecticut),42800,62300,8
+Connecticut,associates,Charter Oak State College,41800,62000,2
+Connecticut,associates,Housatonic Community College,40600,61900,4
+Connecticut,associates,Mitchell College,39900,60200,0
+Connecticut,associates,Gateway Community College,41500,59600,6
+Connecticut,associates,Northwestern Connecticut Community College,39500,58300,0
+Connecticut,associates,Quinebaug Valley Community College,39300,57700,16
+Connecticut,associates,Middlesex Community College (Connecticut),39000,56500,3
+Delaware,bachelors,University of Delaware,58600,105400,22
+Delaware,bachelors,Goldey-Beacom College,49800,86900,25
+Delaware,bachelors,Delaware State University,46300,81900,10
+Delaware,bachelors,Wesley College,45400,77300,2
+Delaware,bachelors,Wilmington University,45100,76600,4
+Delaware,associates,Wesley College,41700,60700,2
+Delaware,associates,Goldey-Beacom College,40500,59000,25
+Delaware,associates,Wilmington University,40300,58700,4
+Delaware,associates,Delaware Technical Community College-Terry,40600,58500,5
+Delaware,associates,University of Delaware,38200,58200,22
+Florida,bachelors,Embry-Riddle Aeronautical University-Daytona Beach,63300,111200,35
+Florida,bachelors,Polytechnic University of Puerto Rico-Miami,60600,108300,10
+Florida,bachelors,Florida Institute of Technology,58300,105400,48
+Florida,bachelors,University of Florida,55800,102800,29
+Florida,bachelors,Polytechnic University of Puerto Rico-Orlando,57600,102200,29
+Florida,bachelors,University of Miami,56200,99600,22
+Florida,bachelors,Embry-Riddle Aeronautical University-Worldwide,55800,96800,3
+Florida,bachelors,Florida State University,50800,92700,18
+Florida,bachelors,The University of Tampa,49200,91500,8
+Florida,bachelors,University of South Florida-Main Campus,49700,91300,25
+Florida,bachelors,Florida Atlantic University,49400,91200,15
+Florida,bachelors,Jacksonville University,50100,90400,5
+Florida,bachelors,Florida International University,49600,90100,16
+Florida,bachelors,Adventist University of Health Sciences,51600,89800,5
+Florida,bachelors,Nova Southeastern University,50200,89800,9
+Florida,bachelors,University of Central Florida,49700,88600,16
+Florida,bachelors,Eckerd College,49200,88400,25
+Florida,bachelors,Rollins College,49000,87000,7
+Florida,bachelors,University of North Florida,48800,86600,11
+Florida,bachelors,New College of Florida,47300,86500,4
+Florida,bachelors,Stetson University,47000,86000,7
+Florida,bachelors,Lynn University,46100,85000,2
+Florida,bachelors,St Thomas University,47400,84500,4
+Florida,bachelors,Barry University,47400,84400,12
+Florida,bachelors,Florida Agricultural and Mechanical University,48000,83900,8
+Florida,bachelors,Florida Southern College,45400,82500,14
+Florida,bachelors,Seminole State College of Florida,46400,82400,13
+Florida,bachelors,Valencia College,46500,82300,9
+Florida,bachelors,Palm Beach Atlantic University,45300,81800,7
+Florida,bachelors,The University of West Florida,45200,81700,11
+Florida,bachelors,Everglades University,46100,81500,0
+Florida,bachelors,Ringling College of Art and Design,47900,81300,0
+Florida,bachelors,Saint Leo University,45200,80800,6
+Florida,bachelors,Webber International University,44200,80200,2
+Florida,bachelors,Florida Gulf Coast University,46200,80000,10
+Florida,bachelors,University of South Florida-St Petersburg,44700,80000,10
+Florida,bachelors,University of South Florida-Sarasota-Manatee,44800,79400,11
+Florida,bachelors,Flagler College-St Augustine,43000,78700,0
+Florida,bachelors,Florida State College at Jacksonville,44400,78100,6
+Florida,bachelors,St Petersburg College,46600,77800,8
+Florida,bachelors,Miami Dade College,45100,77700,2
+Florida,bachelors,Broward College,44400,77400,4
+Florida,bachelors,Florida Institute of Technology-Online,43400,77300,12
+Florida,bachelors,College of Central Florida,41700,76200,4
+Florida,bachelors,Palm Beach State College,43200,76200,8
+Florida,bachelors,Florida SouthWestern State College,42100,76100,4
+Florida,bachelors,Warner University,41500,76000,2
+Florida,bachelors,Polk State College,42100,74600,1
+Florida,bachelors,Johnson & Wales University-North Miami,41000,74200,0
+Florida,bachelors,Southeastern University,41300,73900,1
+Florida,bachelors,Pensacola State College,41400,73900,3
+Florida,bachelors,Hodges University,41300,73600,11
+Florida,bachelors,Daytona State College,41300,73300,4
+Florida,bachelors,Bethune-Cookman University,41400,72900,7
+Florida,bachelors,Indian River State College,41300,72400,5
+Florida,bachelors,Keiser University-Ft Lauderdale,43400,71700,4
+Florida,bachelors,Northwest Florida State College,40600,71600,4
+Florida,bachelors,Flagler College-Tallahassee,40000,71100,0
+Florida,bachelors,Altierus Career College-Tampa,37600,68600,2
+Florida,bachelors,Florida Memorial University,36900,67100,9
+Florida,bachelors,Edward Waters College,34600,63000,17
+Florida,bachelors,The Baptist College of Florida,28400,52000,0
+Florida,associates,Embry-Riddle Aeronautical University-Worldwide,51600,75700,3
+Florida,associates,Embry-Riddle Aeronautical University-Daytona Beach,50000,72400,35
+Florida,associates,Florida International University,41900,67700,16
+Florida,associates,Palm Beach State College,41200,64600,8
+Florida,associates,University of South Florida-Main Campus,40600,64300,25
+Florida,associates,Miami Dade College,40600,64000,2
+Florida,associates,University of Central Florida,40000,63700,16
+Florida,associates,Broward College,41000,63600,4
+Florida,associates,Florida Atlantic University,39700,63600,15
+Florida,associates,Florida Keys Community College,42300,63500,2
+Florida,associates,University of Florida,43000,63000,29
+Florida,associates,University of North Florida,38300,62900,11
+Florida,associates,Florida State University,41900,62600,18
+Florida,associates,Polk State College,41700,62400,1
+Florida,associates,Florida Gateway College,42200,61400,2
+Florida,associates,Hillsborough Community College,41100,61200,3
+Florida,associates,Pensacola State College,40400,61100,3
+Florida,associates,Florida SouthWestern State College,41300,61000,4
+Florida,associates,South Florida State College,40200,61000,2
+Florida,associates,St Petersburg College,40200,61000,8
+Florida,associates,Valencia College,38100,60800,9
+Florida,associates,State College of Florida-Manatee-Sarasota,41500,60400,6
+Florida,associates,Eastern Florida State College,36800,59500,5
+Florida,associates,Florida State College at Jacksonville,39400,59300,6
+Florida,associates,Saint Leo University,40100,59300,6
+Florida,associates,Indian River State College,40100,59200,5
+Florida,associates,Santa Fe College,39600,58800,6
+Florida,associates,Pasco-Hernando State College,40600,57700,3
+Florida,associates,Florida College,37100,57300,0
+Florida,associates,Seminole State College of Florida,38300,57200,13
+Florida,associates,Gulf Coast State College,40100,57000,3
+Florida,associates,Tallahassee Community College,37200,56700,3
+Florida,associates,Daytona State College,39900,56500,4
+Florida,associates,Northwest Florida State College,37800,56200,4
+Florida,associates,College of Central Florida,37800,56100,4
+Florida,associates,Saint Johns River State College,38400,56100,8
+Florida,associates,Nova Southeastern University,36800,56000,9
+Florida,associates,Johnson & Wales University-North Miami,36400,55800,0
+Florida,associates,Florida Gulf Coast University,35700,55700,10
+Florida,associates,North Florida Community College,35000,55300,0
+Florida,associates,Lake-Sumter State College,36000,55300,5
+Florida,associates,Chipola College,36900,54600,1
+Florida,associates,The University of West Florida,35000,54300,11
+Florida,associates,Hodges University,35600,53300,11
+Florida,associates,Keiser University-Ft Lauderdale,41200,51500,4
+Florida,associates,Altierus Career College-Tampa,33100,47200,2
+Florida,associates,Everest University-South Orlando,31000,44800,10
+Florida,associates,Ultimate Medical Academy-Clearwater,29200,42500,0
+Florida,associates,Ultimate Medical Academy-Tampa,29600,40800,0
+Georgia,bachelors,Georgia Institute of Technology-Main Campus,72700,133400,80
+Georgia,bachelors,Emory University,62000,110800,20
+Georgia,bachelors,University of Georgia,54400,100700,14
+Georgia,bachelors,Morehouse College,55700,98700,26
+Georgia,bachelors,Kennesaw State University,52500,94600,22
+Georgia,bachelors,Oglethorpe University,52400,91400,12
+Georgia,bachelors,Georgia State University,50600,90800,18
+Georgia,bachelors,Georgia Southern University,49000,88000,17
+Georgia,bachelors,University of North Georgia,47300,85600,8
+Georgia,bachelors,Spelman College,50200,85400,24
+Georgia,bachelors,Mercer University,48500,85100,14
+Georgia,bachelors,Berry College,44900,84900,21
+Georgia,bachelors,Augusta University,47000,84400,10
+Georgia,bachelors,Agnes Scott College,46000,83600,26
+Georgia,bachelors,University of West Georgia,46700,82700,9
+Georgia,bachelors,Armstrong State University,46600,81500,10
+Georgia,bachelors,Clayton State University,46400,81200,9
+Georgia,bachelors,Clark Atlanta University,46300,81100,15
+Georgia,bachelors,Valdosta State University,43400,81000,7
+Georgia,bachelors,Georgia College & State University,45300,80300,12
+Georgia,bachelors,Savannah College of Art and Design,46800,80100,3
+Georgia,bachelors,Shorter University,45600,79900,6
+Georgia,bachelors,Middle Georgia State University,44000,79800,11
+Georgia,bachelors,Covenant College,44400,79400,19
+Georgia,bachelors,Columbus State University,43300,77900,10
+Georgia,bachelors,Dalton State College,44000,77800,7
+Georgia,bachelors,Shorter University-College of Adult & Professional Programs,42500,77700,0
+Georgia,bachelors,Georgia Southwestern State University,42500,77000,5
+Georgia,bachelors,Brenau University,43800,76900,1
+Georgia,bachelors,Georgia Gwinnett College,43800,76600,24
+Georgia,bachelors,College of Coastal Georgia,43200,76400,5
+Georgia,bachelors,Piedmont College,42100,76000,1
+Georgia,bachelors,LaGrange College,42200,74700,6
+Georgia,bachelors,Reinhardt University,41800,74300,7
+Georgia,bachelors,Savannah State University,41000,73100,20
+Georgia,bachelors,Albany State University,40100,73000,4
+Georgia,bachelors,Point University,39500,71500,3
+Georgia,bachelors,Gordon State College,38100,68900,5
+Georgia,bachelors,Wesleyan College,38800,68500,13
+Georgia,bachelors,Thomas University,38000,68500,2
+Georgia,bachelors,Brewton-Parker College,37000,68300,13
+Georgia,bachelors,Paine College,36900,68300,14
+Georgia,bachelors,Toccoa Falls College,37800,66700,3
+Georgia,bachelors,Fort Valley State University,36200,65600,12
+Georgia,associates,Kennesaw State University,44000,68700,22
+Georgia,associates,Clayton State University,46400,67900,9
+Georgia,associates,Middle Georgia State University,42600,66800,11
+Georgia,associates,Armstrong State University,45600,64900,10
+Georgia,associates,Augusta University,45800,64500,10
+Georgia,associates,Gordon State College,42800,64100,5
+Georgia,associates,Georgia State University-Perimeter College,40200,62400,0
+Georgia,associates,Georgia Highlands College,41900,60800,0
+Georgia,associates,Abraham Baldwin Agricultural College,40400,60700,3
+Georgia,associates,University of North Georgia,39300,60600,8
+Georgia,associates,South Georgia State College,41500,60300,2
+Georgia,associates,Georgia Piedmont Technical College,38000,59500,8
+Georgia,associates,Gwinnett Technical College,42800,59100,13
+Georgia,associates,Columbus State University,40500,58800,10
+Georgia,associates,College of Coastal Georgia,39600,58100,5
+Georgia,associates,Gupton Jones College of Funeral Service,37000,57800,0
+Georgia,associates,Valdosta State University,39100,57500,7
+Georgia,associates,Dalton State College,39100,57100,7
+Georgia,associates,Chattahoochee Technical College,38800,56800,13
+Georgia,associates,Reinhardt University,36400,56500,7
+Georgia,associates,Georgia Northwestern Technical College,40900,56300,10
+Georgia,associates,Augusta Technical College,39000,55900,8
+Georgia,associates,Lanier Technical College,39000,55700,8
+Georgia,associates,West Georgia Technical College,38900,55400,7
+Georgia,associates,Columbus Technical College,38500,54700,4
+Georgia,associates,Southern Regional Technical College,34500,53900,7
+Georgia,associates,Savannah Technical College,35600,53100,3
+Georgia,associates,Georgia Military College,32000,52900,8
+Georgia,associates,Athens Technical College,37700,52700,8
+Georgia,associates,North Georgia Technical College,34600,52700,4
+Georgia,associates,Bainbridge State College,33500,51800,1
+Georgia,associates,Wiregrass Georgia Technical College,32200,51700,5
+Georgia,associates,Atlanta Metropolitan State College,32700,51500,4
+Georgia,associates,Atlanta Technical College,35500,51500,4
+Georgia,associates,Southern Crescent Technical College,35100,51500,4
+Georgia,associates,Ogeechee Technical College,34900,51100,6
+Georgia,associates,Coastal Pines Technical College,33300,50500,6
+Georgia,associates,Central Georgia Technical College,33800,50200,10
+Georgia,associates,Albany Technical College,31700,48100,3
+Georgia,associates,South Georgia Technical College,31200,47900,12
+Hawaii,bachelors,Brigham Young University-Hawaii,51700,93900,12
+Hawaii,bachelors,Hawaii Pacific University,52200,93500,15
+Hawaii,bachelors,University of Hawaii at Manoa,51600,91600,18
+Hawaii,bachelors,Chaminade University of Honolulu,45400,84000,3
+Hawaii,bachelors,University of Hawaii at Hilo,44000,77200,14
+Hawaii,bachelors,University of Hawaii-West Oahu,41300,74300,0
+Hawaii,associates,Hawaii Pacific University,45800,67000,15
+Hawaii,associates,Chaminade University of Honolulu,43100,64500,3
+Hawaii,associates,Honolulu Community College,41400,64100,10
+Hawaii,associates,Kapiolani Community College,43200,63000,7
+Hawaii,associates,Leeward Community College,36800,59100,8
+Hawaii,associates,University of Hawaii Maui College,40900,58400,0
+Hawaii,associates,Hawaii Community College,38500,57800,3
+Idaho,bachelors,University of Idaho,52300,97700,22
+Idaho,bachelors,Brigham Young University-Idaho,53700,93500,14
+Idaho,bachelors,Idaho State University,50800,91800,12
+Idaho,bachelors,Boise State University,50100,86400,14
+Idaho,bachelors,The College of Idaho,44700,82100,17
+Idaho,bachelors,Northwest Nazarene University,46200,80600,7
+Idaho,bachelors,Lewis-Clark State College,44900,77600,5
+Idaho,associates,Boise State University,44700,64500,14
+Idaho,associates,Idaho State University,42000,63900,12
+Idaho,associates,Brigham Young University-Idaho,39300,61200,14
+Idaho,associates,College of Eastern Idaho,38600,57400,14
+Idaho,associates,North Idaho College,37500,57100,4
+Idaho,associates,Lewis-Clark State College,39200,56900,5
+Idaho,associates,College of Southern Idaho,38800,54200,7
+Illinois,bachelors,Illinois Institute of Technology,64600,118500,64
+Illinois,bachelors,Northwestern University,63400,115400,20
+Illinois,bachelors,University of Illinois at Urbana-Champaign,62600,115300,36
+Illinois,bachelors,University of Chicago,64000,114200,22
+Illinois,bachelors,Rush University,63500,107600,6
+Illinois,bachelors,Bradley University,55600,104900,38
+Illinois,bachelors,University of Illinois at Chicago,56300,103800,31
+Illinois,bachelors,DePaul University,55700,102900,15
+Illinois,bachelors,Lake Forest College,55400,102600,21
+Illinois,bachelors,St. John's College-Department of Nursing,55100,100000,0
+Illinois,bachelors,Wheaton College (Illinois),53700,99700,12
+Illinois,bachelors,Illinois Wesleyan University,53100,96000,18
+Illinois,bachelors,Loyola University Chicago,53400,96000,15
+Illinois,bachelors,Northern Illinois University,53000,95500,20
+Illinois,bachelors,Knox College,50600,95400,24
+Illinois,bachelors,Illinois State University,51200,95000,10
+Illinois,bachelors,Principia College,52600,94900,19
+Illinois,bachelors,Lakeview College of Nursing,55000,94100,0
+Illinois,bachelors,North Central College,50400,92900,9
+Illinois,bachelors,Saint Xavier University,49400,91200,10
+Illinois,bachelors,Southern Illinois University-Carbondale,49700,90900,17
+Illinois,bachelors,Saint Francis Medical Center College of Nursing,52800,90800,0
+Illinois,bachelors,Methodist College,51400,90500,0
+Illinois,bachelors,Southern Illinois University-Edwardsville,51400,90100,21
+Illinois,bachelors,Lewis University,49700,89800,14
+Illinois,bachelors,Roosevelt University,47800,89700,11
+Illinois,bachelors,Benedictine University,50200,89400,6
+Illinois,bachelors,Augustana College,47800,88900,29
+Illinois,bachelors,Elmhurst College,49600,88500,9
+Illinois,bachelors,University of St Francis,49200,88200,4
+Illinois,bachelors,National Louis University,46800,88200,0
+Illinois,bachelors,Monmouth College,48800,88100,15
+Illinois,bachelors,Western Illinois University,46200,85900,13
+Illinois,bachelors,Olivet Nazarene University,49100,85800,7
+Illinois,bachelors,University of Illinois at Springfield,46900,85600,54
+Illinois,bachelors,Eastern Illinois University,46100,85000,7
+Illinois,bachelors,Northeastern Illinois University,47200,84900,15
+Illinois,bachelors,North Park University,46000,84300,5
+Illinois,bachelors,Trinity International University-Illinois,45700,84100,0
+Illinois,bachelors,Dominican University,48700,83700,5
+Illinois,bachelors,Aurora University,46300,83400,2
+Illinois,bachelors,Millikin University,45900,83400,7
+Illinois,bachelors,Rockford University,44900,83200,4
+Illinois,bachelors,Columbia College Chicago,45600,82800,1
+Illinois,bachelors,School of the Art Institute of Chicago,46400,82800,0
+Illinois,bachelors,Trinity Christian College,47000,82600,5
+Illinois,bachelors,Illinois College,45000,81700,27
+Illinois,bachelors,McKendree University,45400,81300,7
+Illinois,bachelors,Eureka College,44400,80800,14
+Illinois,bachelors,MacMurray College,43700,79700,3
+Illinois,bachelors,Concordia University-Chicago,44600,78800,1
+Illinois,bachelors,Governors State University,44500,77900,21
+Illinois,bachelors,Quincy University,42600,75900,13
+Illinois,bachelors,Greenville University,43400,74900,11
+Illinois,bachelors,Chicago State University,43400,74700,23
+Illinois,bachelors,Judson University,42700,74300,3
+Illinois,bachelors,Robert Morris University Illinois,44000,73300,5
+Illinois,bachelors,Blackburn College,40400,73000,26
+Illinois,bachelors,Moody Bible Institute,41500,71900,0
+Illinois,bachelors,Lincoln Christian University,40100,71400,0
+Illinois,associates,Prairie State College,47600,71400,2
+Illinois,associates,William Rainey Harper College,45100,71000,2
+Illinois,associates,Lewis University,47100,69400,14
+Illinois,associates,Morton College,45100,69400,3
+Illinois,associates,Oakton Community College,46400,68600,7
+Illinois,associates,Trinity College of Nursing & Health Sciences,47600,68500,0
+Illinois,associates,Morrison Institute of Technology,44900,68400,29
+Illinois,associates,Benedictine University,45700,66300,6
+Illinois,associates,Southern Illinois University-Carbondale,44700,65800,17
+Illinois,associates,College of DuPage,43100,65500,8
+Illinois,associates,Triton College,43500,65300,1
+Illinois,associates,Elgin Community College,42500,65000,2
+Illinois,associates,South Suburban College,46800,64800,3
+Illinois,associates,Moraine Valley Community College,41200,64200,6
+Illinois,associates,City Colleges of Chicago-Richard J Daley College,43800,64100,3
+Illinois,associates,Joliet Junior College,41800,64000,2
+Illinois,associates,City Colleges of Chicago-Harry S Truman College,44600,63100,2
+Illinois,associates,Waubonsee Community College,42300,62300,1
+Illinois,associates,MacCormac College,41300,62200,0
+Illinois,associates,City Colleges of Chicago-Malcolm X College,44100,62100,0
+Illinois,associates,Rock Valley College,39900,62100,4
+Illinois,associates,Sauk Valley Community College,41300,61900,4
+Illinois,associates,College of Lake County,42800,61600,2
+Illinois,associates,Lincoln Land Community College,39300,61500,1
+Illinois,associates,City Colleges of Chicago-Wilbur Wright College,40200,61100,6
+Illinois,associates,Lewis and Clark Community College,41900,61000,4
+Illinois,associates,Moody Bible Institute,39200,59700,0
+Illinois,associates,Richland Community College,40500,59400,4
+Illinois,associates,Kaskaskia College,39200,59000,3
+Illinois,associates,Kankakee Community College,42100,58600,3
+Illinois,associates,McHenry County College,39000,58600,2
+Illinois,associates,Illinois Central College,40600,58500,6
+Illinois,associates,Southeastern Illinois College,37300,58500,2
+Illinois,associates,Lincoln Trail College,38400,57500,1
+Illinois,associates,Kishwaukee College,41200,57500,3
+Illinois,associates,Parkland College,40200,57400,7
+Illinois,associates,Highland Community College (Illinois),39100,57300,1
+Illinois,associates,Southwestern Illinois College,38600,57200,6
+Illinois,associates,Lake Land College,38400,56800,1
+Illinois,associates,Olney Central College,36900,56700,0
+Illinois,associates,Carl Sandburg College,37100,56600,7
+Illinois,associates,Rend Lake College,39300,56400,2
+Illinois,associates,City Colleges of Chicago-Olive-Harvey College,37300,56300,1
+Illinois,associates,Danville Area Community College,40400,56300,2
+Illinois,associates,Wabash Valley College,37300,56200,0
+Illinois,associates,Robert Morris University Illinois,37700,56000,5
+Illinois,associates,Black Hawk College,39100,55500,1
+Illinois,associates,Shawnee Community College,37100,55400,1
+Illinois,associates,John A Logan College,38600,55300,1
+Illinois,associates,John Wood Community College,35400,54100,1
+Illinois,associates,Illinois Valley Community College,38200,53900,2
+Illinois,associates,City Colleges of Chicago-Harold Washington College,35800,53400,2
+Illinois,associates,City Colleges of Chicago-Kennedy-King College,36200,53000,1
+Illinois,associates,Lincoln College,34800,52400,0
+Illinois,associates,Spoon River College,34800,50900,11
+Indiana,bachelors,Rose-Hulman Institute of Technology,75000,135800,96
+Indiana,bachelors,University of Notre Dame,67000,130500,28
+Indiana,bachelors,Wabash College,62200,114400,34
+Indiana,bachelors,Purdue University-Main Campus,60900,110000,38
+Indiana,bachelors,DePauw University,56600,101000,24
+Indiana,bachelors,Trine University,55100,100300,26
+Indiana,bachelors,Butler University,51800,99300,9
+Indiana,bachelors,Valparaiso University,53300,98000,31
+Indiana,bachelors,Indiana University-Bloomington,53600,97100,16
+Indiana,bachelors,Taylor University,48700,90600,16
+Indiana,bachelors,University of Evansville,50300,89900,17
+Indiana,bachelors,Saint Mary's College,49700,89300,15
+Indiana,bachelors,Earlham College,49100,88400,31
+Indiana,bachelors,Indiana University-Purdue University-Indianapolis,50500,88200,15
+Indiana,bachelors,Holy Cross College,48100,87800,0
+Indiana,bachelors,Franklin College,48900,86200,21
+Indiana,bachelors,Indiana State University,47900,85600,8
+Indiana,bachelors,Hanover College,47500,85100,24
+Indiana,bachelors,Indiana Institute of Technology,50000,84900,11
+Indiana,bachelors,Manchester University,46900,84700,10
+Indiana,bachelors,University of Indianapolis,47300,84500,5
+Indiana,bachelors,Ball State University,45600,83700,7
+Indiana,bachelors,University of Saint Francis-Fort Wayne,45700,83700,5
+Indiana,bachelors,Indiana University-Purdue University-Fort Wayne,47300,83200,17
+Indiana,bachelors,Marian University (Indiana),48400,82000,3
+Indiana,bachelors,Indiana Wesleyan University-Marion,46500,81100,7
+Indiana,bachelors,University of Southern Indiana,44800,79800,9
+Indiana,bachelors,Indiana University-Kokomo,43900,79600,4
+Indiana,bachelors,Goshen College,44600,79200,14
+Indiana,bachelors,Anderson University (Indiana),44900,78600,6
+Indiana,bachelors,Grace College and Theological Seminary,44200,78200,3
+Indiana,bachelors,Indiana University-South Bend,45100,78000,8
+Indiana,bachelors,Vincennes University,42600,76600,2
+Indiana,bachelors,Indiana University-Northwest,43600,76300,8
+Indiana,bachelors,Calumet College of Saint Joseph,42600,75900,3
+Indiana,bachelors,Indiana University-East,43500,75900,9
+Indiana,bachelors,Oakland City University,41000,75600,2
+Indiana,bachelors,Indiana University-Southeast,42000,75400,10
+Indiana,bachelors,Bethel College-Indiana,42400,74500,4
+Indiana,bachelors,Trine University-Regional/Non-Traditional Campuses,40600,72700,9
+Indiana,bachelors,Huntington University,38800,71600,3
+Indiana,bachelors,Saint Mary-of-the-Woods College,39300,68800,3
+Indiana,bachelors,Martin University,37400,68000,3
+Indiana,associates,Indiana University-Kokomo,50700,71800,4
+Indiana,associates,University of Indianapolis,51000,70600,5
+Indiana,associates,Purdue University-Main Campus,43800,68900,38
+Indiana,associates,Indiana University-Purdue University-Indianapolis,45000,68600,15
+Indiana,associates,Marian University (Indiana),47300,67400,3
+Indiana,associates,University of Saint Francis-Fort Wayne,47200,66600,5
+Indiana,associates,Indiana University-Northwest,47800,66200,8
+Indiana,associates,Indiana University-Bloomington,44100,65400,16
+Indiana,associates,University of Evansville,42800,65200,17
+Indiana,associates,Indiana University-Purdue University-Fort Wayne,40600,63600,17
+Indiana,associates,University of Southern Indiana,43800,61400,9
+Indiana,associates,Manchester University,41900,60000,10
+Indiana,associates,Vincennes University,41000,59400,2
+Indiana,associates,Indiana Wesleyan University-Marion,41700,59400,7
+Indiana,associates,Indiana University-South Bend,39400,58700,8
+Indiana,associates,Ivy Tech Community College,40300,57200,4
+Indiana,associates,Ball State University,40600,56000,7
+Indiana,associates,Oakland City University,38400,55900,2
+Indiana,associates,Indiana Institute of Technology,39100,55200,11
+Indiana,associates,Mid-America College of Funeral Service,35000,53100,0
+Iowa,bachelors,Iowa State University,56100,101300,31
+Iowa,bachelors,Drake University,52800,99900,7
+Iowa,bachelors,University of Iowa,54100,99400,16
+Iowa,bachelors,Grinnell College,53400,96500,41
+Iowa,bachelors,Allen College,51600,91300,0
+Iowa,bachelors,Cornell College,49600,90600,22
+Iowa,bachelors,Loras College,48000,90100,14
+Iowa,bachelors,Dordt College,51000,89600,17
+Iowa,bachelors,Central College,49000,88800,36
+Iowa,bachelors,Graceland University-Lamoni,48300,88700,5
+Iowa,bachelors,Simpson College,49900,88600,17
+Iowa,bachelors,Wartburg College,49300,88000,34
+Iowa,bachelors,Coe College,47200,86900,24
+Iowa,bachelors,Luther College,48200,85900,21
+Iowa,bachelors,University of Northern Iowa,47100,85300,8
+Iowa,bachelors,Maharishi University of Management,46800,85200,65
+Iowa,bachelors,Saint Ambrose University,46900,84400,8
+Iowa,bachelors,Northwestern College,44800,82400,11
+Iowa,bachelors,Morningside College,44900,82100,6
+Iowa,bachelors,Clarke University,44900,80200,6
+Iowa,bachelors,University of Dubuque,44200,79700,7
+Iowa,bachelors,Mount Mercy University,47200,79000,4
+Iowa,bachelors,William Penn University,43900,78300,7
+Iowa,bachelors,Upper Iowa University,44200,78000,3
+Iowa,bachelors,Iowa Wesleyan University,42600,77200,8
+Iowa,bachelors,Grand View University,44800,77100,11
+Iowa,bachelors,Divine Word College,41500,76300,0
+Iowa,bachelors,Buena Vista University,41700,76100,5
+Iowa,bachelors,Briar Cliff University,41700,71700,5
+Iowa,associates,Briar Cliff University,45400,66400,5
+Iowa,associates,Northwest Iowa Community College,44300,65800,0
+Iowa,associates,William Penn University,44200,64800,7
+Iowa,associates,Indian Hills Community College,42400,64100,4
+Iowa,associates,Iowa Western Community College,40000,61400,4
+Iowa,associates,Iowa Central Community College,41000,60900,3
+Iowa,associates,Des Moines Area Community College,40200,60800,4
+Iowa,associates,Western Iowa Tech Community College,39300,60400,4
+Iowa,associates,North Iowa Area Community College,38800,60100,1
+Iowa,associates,Eastern Iowa Community College District,39600,59900,2
+Iowa,associates,Kirkwood Community College,40500,59100,7
+Iowa,associates,Northeast Iowa Community College,40600,58700,2
+Iowa,associates,Ellsworth Community College,39900,58000,0
+Iowa,associates,Iowa Lakes Community College,38300,57900,0
+Iowa,associates,Southwestern Community College (Iowa),39300,56800,3
+Iowa,associates,Upper Iowa University,37500,55500,3
+Iowa,associates,Southeastern Community College (Iowa),39300,55200,4
+Iowa,associates,Marshalltown Community College,37900,54200,1
+Iowa,associates,Faith Baptist Bible College and Theological Seminary,37800,54100,0
+Iowa,associates,Hawkeye Community College,38100,53300,4
+Kansas,bachelors,University of Kansas,53000,98600,16
+Kansas,bachelors,Kansas State University,52500,97200,18
+Kansas,bachelors,Benedictine College,48700,91800,13
+Kansas,bachelors,Ottawa University-Ottawa,49800,89900,7
+Kansas,bachelors,University of Saint Mary,49500,89700,6
+Kansas,bachelors,Newman University,48000,88500,11
+Kansas,bachelors,Wichita State University,48700,87300,24
+Kansas,bachelors,Ottawa University-Online,47300,84900,7
+Kansas,bachelors,Pittsburg State University,47100,84900,8
+Kansas,bachelors,Baker University,47800,84200,2
+Kansas,bachelors,Southwestern College (Kansas),48500,83500,10
+Kansas,bachelors,Washburn University,47000,83000,4
+Kansas,bachelors,Ottawa University-Kansas City,45200,82600,9
+Kansas,bachelors,McPherson College,44500,80900,9
+Kansas,bachelors,Kansas Wesleyan University,44700,79400,10
+Kansas,bachelors,Fort Hays State University,45100,79300,6
+Kansas,bachelors,Sterling College,42700,79100,7
+Kansas,bachelors,MidAmerica Nazarene University,46200,78500,1
+Kansas,bachelors,Emporia State University,43500,78000,9
+Kansas,bachelors,Tabor College,43300,77500,7
+Kansas,bachelors,Friends University,44700,76500,14
+Kansas,bachelors,Bethel College-North Newton,42700,73800,12
+Kansas,bachelors,Bethany College (Kansas),39100,73200,17
+Kansas,bachelors,Manhattan Christian College,39400,72200,0
+Kansas,bachelors,Central Christian College of Kansas,37100,66100,2
+Kansas,associates,Kansas Wesleyan University,49900,71000,10
+Kansas,associates,Pittsburg State University,46400,68100,8
+Kansas,associates,Northwest Kansas Technical College,43600,67300,1
+Kansas,associates,Kansas State University,46600,66700,18
+Kansas,associates,Hesston College,44900,66200,0
+Kansas,associates,Neosho County Community College,44000,64100,0
+Kansas,associates,Newman University,44600,64000,11
+Kansas,associates,Fort Scott Community College,42000,63600,0
+Kansas,associates,Manhattan Area Technical College,44200,63400,2
+Kansas,associates,Johnson County Community College,41000,63300,4
+Kansas,associates,Wichita State University,41400,63000,24
+Kansas,associates,Highland Community College (Kansas),39900,62700,0
+Kansas,associates,Dodge City Community College,42200,61800,3
+Kansas,associates,Fort Hays State University,39800,61600,6
+Kansas,associates,Washburn University,41800,61600,4
+Kansas,associates,Colby Community College,41400,60800,2
+Kansas,associates,Labette Community College,40300,59800,1
+Kansas,associates,Barton County Community College,39200,58900,0
+Kansas,associates,Baker University,39100,58300,2
+Kansas,associates,Garden City Community College,39600,57800,5
+Kansas,associates,Kansas City Kansas Community College,41900,57700,1
+Kansas,associates,Seward County Community College,38900,57500,2
+Kansas,associates,Pratt Community College,42100,57400,0
+Kansas,associates,Hutchinson Community College,37900,56500,2
+Kansas,associates,Flint Hills Technical College,38900,56500,14
+Kansas,associates,Coffeyville Community College,35200,55300,0
+Kansas,associates,Cloud County Community College,36600,55300,0
+Kansas,associates,Wichita Area Technical College,38300,54600,1
+Kansas,associates,Butler Community College,38000,54500,5
+Kansas,associates,Cowley County Community College,33400,52600,1
+Kansas,associates,Allen County Community College,34100,52100,13
+Kentucky,bachelors,University of Kentucky,51700,96400,19
+Kentucky,bachelors,Thomas More College,50000,90900,8
+Kentucky,bachelors,Bellarmine University,49000,90700,11
+Kentucky,bachelors,Centre College,49500,88500,22
+Kentucky,bachelors,University of Louisville,49500,87600,18
+Kentucky,bachelors,Northern Kentucky University,49000,87400,12
+Kentucky,bachelors,Transylvania University,47900,85600,25
+Kentucky,bachelors,Western Kentucky University,45500,83100,10
+Kentucky,bachelors,Georgetown College,45000,81900,10
+Kentucky,bachelors,Brescia University,44300,81200,7
+Kentucky,bachelors,Eastern Kentucky University,45600,80700,5
+Kentucky,bachelors,Murray State University,44800,79900,9
+Kentucky,bachelors,Spalding University,44800,79200,0
+Kentucky,bachelors,Kentucky Wesleyan College,42100,76800,14
+Kentucky,bachelors,Union College (Kentucky),40400,76000,4
+Kentucky,bachelors,Morehead State University,41300,74900,9
+Kentucky,bachelors,University of the Cumberlands,39800,73800,8
+Kentucky,bachelors,Kentucky State University,40700,73100,13
+Kentucky,bachelors,Berea College,39500,71600,27
+Kentucky,bachelors,Asbury University,39400,70800,4
+Kentucky,bachelors,University of Pikeville,39000,70700,11
+Kentucky,bachelors,Kentucky Christian University,39600,70300,3
+Kentucky,bachelors,Midway University,39200,70300,3
+Kentucky,bachelors,Campbellsville University,37600,66800,7
+Kentucky,bachelors,Lindsey Wilson College,35300,64100,2
+Kentucky,bachelors,The Southern Baptist Theological Seminary,33600,60500,0
+Kentucky,associates,Kentucky State University,47300,68300,13
+Kentucky,associates,University of Louisville,42300,64700,18
+Kentucky,associates,Northern Kentucky University,43800,64500,12
+Kentucky,associates,Midway University,44800,64200,3
+Kentucky,associates,Western Kentucky University,41000,61300,10
+Kentucky,associates,University of Pikeville,42200,61300,11
+Kentucky,associates,Gateway Community and Technical College,40300,59300,25
+Kentucky,associates,Eastern Kentucky University,43100,59200,5
+Kentucky,associates,Jefferson Community and Technical College,39900,58600,18
+Kentucky,associates,Morehead State University,39900,56900,9
+Kentucky,associates,Henderson Community College,37700,56800,9
+Kentucky,associates,Bluegrass Community and Technical College,38000,56200,6
+Kentucky,associates,Big Sandy Community and Technical College,37500,56100,8
+Kentucky,associates,Southcentral Kentucky Community and Technical College,36900,55700,6
+Kentucky,associates,Hopkinsville Community College,37100,55700,2
+Kentucky,associates,Madisonville Community College,39800,55700,10
+Kentucky,associates,Murray State University,35800,55500,9
+Kentucky,associates,West Kentucky Community and Technical College,38000,55200,6
+Kentucky,associates,Southeast Kentucky Community and Technical College,37400,54900,4
+Kentucky,associates,Elizabethtown Community and Technical College,38100,54700,8
+Kentucky,associates,Owensboro Community and Technical College,36500,54500,7
+Kentucky,associates,Ashland Community and Technical College,36500,54400,3
+Kentucky,associates,Somerset Community College,36300,53800,7
+Kentucky,associates,Hazard Community and Technical College,35200,53400,6
+Kentucky,associates,Maysville Community and Technical College,32600,49800,4
+Louisiana,bachelors,Tulane University of Louisiana,56800,105300,22
+Louisiana,bachelors,Louisiana State University and Agricultural & Mechanical College,54800,102900,24
+Louisiana,bachelors,Louisiana Tech University,53100,100700,24
+Louisiana,bachelors,Louisiana State University Health Sciences Center-New Orleans,52300,94200,2
+Louisiana,bachelors,University of Louisiana at Monroe,48500,92500,7
+Louisiana,bachelors,University of Louisiana at Lafayette,48200,92500,19
+Louisiana,bachelors,University of New Orleans,49900,91600,23
+Louisiana,bachelors,Franciscan Missionaries of Our Lady University,51200,90900,1
+Louisiana,bachelors,Loyola University New Orleans,47900,88600,4
+Louisiana,bachelors,Centenary College of Louisiana,47000,88400,26
+Louisiana,bachelors,McNeese State University,50200,88200,13
+Louisiana,bachelors,Xavier University of Louisiana,46700,88200,35
+Louisiana,bachelors,University of Holy Cross,48400,86300,3
+Louisiana,bachelors,Nicholls State University,44500,84300,5
+Louisiana,bachelors,Southeastern Louisiana University,46700,83900,8
+Louisiana,bachelors,Southern University and A & M College,48000,83100,17
+Louisiana,bachelors,Louisiana College,44800,79800,4
+Louisiana,bachelors,Louisiana State University-Shreveport,44500,79800,10
+Louisiana,bachelors,Dillard University,44700,79800,20
+Louisiana,bachelors,Northwestern State University of Louisiana,44300,79300,6
+Louisiana,bachelors,Grambling State University,43100,73100,10
+Louisiana,bachelors,Southern University at New Orleans,40100,71000,13
+Louisiana,bachelors,New Orleans Baptist Theological Seminary,33900,61500,0
+Louisiana,associates,Louisiana State University-Alexandria,50200,72500,5
+Louisiana,associates,University of Louisiana at Monroe,45600,68700,7
+Louisiana,associates,Franciscan Missionaries of Our Lady University,47000,68200,1
+Louisiana,associates,Louisiana Tech University,47200,67900,24
+Louisiana,associates,Northwestern State University of Louisiana,42900,65800,6
+Louisiana,associates,Southeastern Louisiana University,42500,63700,8
+Louisiana,associates,Nicholls State University,44200,63600,5
+Louisiana,associates,SOWELA Technical Community College,42300,62800,5
+Louisiana,associates,McNeese State University,42400,62200,13
+Louisiana,associates,Tulane University of Louisiana,42000,61400,22
+Louisiana,associates,South Central Louisiana Technical College,40900,59600,3
+Louisiana,associates,Delgado Community College,40600,59400,4
+Louisiana,associates,South Louisiana Community College,36700,59000,6
+Louisiana,associates,Louisiana College,40700,58700,4
+Louisiana,associates,Baton Rouge Community College,39900,56900,2
+Louisiana,associates,Northwest Louisiana Technical College,36900,56300,1
+Louisiana,associates,Louisiana State University-Eunice,38200,55700,3
+Louisiana,associates,Remington College-Lafayette Campus,37100,55300,4
+Louisiana,associates,Nunez Community College,35100,54300,0
+Louisiana,associates,Bossier Parish Community College,37300,53700,9
+Louisiana,associates,Louisiana Delta Community College,34500,51100,2
+Maine,bachelors,Maine Maritime Academy,67000,121800,48
+Maine,bachelors,Bowdoin College,61300,112000,37
+Maine,bachelors,Bates College,59500,111900,23
+Maine,bachelors,Colby College,59200,103300,25
+Maine,bachelors,University of Maine,52000,95000,24
+Maine,bachelors,University of New England,50100,91500,7
+Maine,bachelors,Saint Joseph's College of Maine,46900,84300,2
+Maine,bachelors,Thomas College,46100,81500,3
+Maine,bachelors,University of Southern Maine,46900,81300,8
+Maine,bachelors,Husson University,43300,77600,1
+Maine,bachelors,University of Maine at Fort Kent,43500,76300,5
+Maine,bachelors,University of Maine at Augusta,41600,73100,7
+Maine,bachelors,University of Maine at Farmington,41100,71700,5
+Maine,bachelors,University of Maine at Presque Isle,39000,70700,6
+Maine,bachelors,Unity College,38200,69500,23
+Maine,bachelors,University of Maine at Machias,37100,66200,13
+Maine,bachelors,Maine College of Art,36300,64600,0
+Maine,associates,Maine College of Health Professions,51800,72400,0
+Maine,associates,Eastern Maine Community College,40200,61000,8
+Maine,associates,Southern Maine Community College,41100,61000,9
+Maine,associates,University of Maine at Augusta,40600,59300,7
+Maine,associates,Northern Maine Community College,40500,58700,5
+Maine,associates,Central Maine Community College,37500,57200,7
+Maine,associates,Husson University,38000,56700,1
+Maine,associates,Kennebec Valley Community College,40100,56200,1
+Maine,associates,Thomas College,37200,53200,3
+Maine,associates,University of Maine at Machias,35100,51100,13
+Maryland,bachelors,United States Naval Academy,80100,152800,58
+Maryland,bachelors,Capitol Technology University,67400,118400,88
+Maryland,bachelors,Johns Hopkins University,67200,117100,31
+Maryland,bachelors,University of Maryland-College Park,61300,113400,33
+Maryland,bachelors,Loyola University Maryland,59900,111200,8
+Maryland,bachelors,University of Maryland-Baltimore County,58100,103600,45
+Maryland,bachelors,St. John's College,55900,101200,0
+Maryland,bachelors,"University of Maryland, Baltimore",57300,99600,4
+Maryland,bachelors,University of Maryland-University College,55300,99600,27
+Maryland,bachelors,Washington Adventist University,55600,97600,9
+Maryland,bachelors,St Mary's College of Maryland,53300,95400,27
+Maryland,bachelors,McDaniel College,51100,94600,6
+Maryland,bachelors,Mount St. Mary's University,50200,94100,11
+Maryland,bachelors,Washington College,52800,93500,21
+Maryland,bachelors,Stevenson University,50400,91600,15
+Maryland,bachelors,Towson University,51200,91200,15
+Maryland,bachelors,Goucher College,49400,90600,11
+Maryland,bachelors,Bowie State University,50300,89900,11
+Maryland,bachelors,Salisbury University,50400,89800,12
+Maryland,bachelors,University of Baltimore,51000,89600,2
+Maryland,bachelors,Frostburg State University,49600,87000,19
+Maryland,bachelors,University of Maryland Eastern Shore,48300,86700,14
+Maryland,bachelors,Notre Dame of Maryland University,48300,86400,3
+Maryland,bachelors,Maryland Institute College of Art,49000,84500,0
+Maryland,bachelors,Hood College,47900,82600,32
+Maryland,bachelors,Morgan State University,50000,82200,19
+Maryland,bachelors,Coppin State University,43500,76800,6
+Maryland,associates,University of Maryland-University College,46600,71400,27
+Maryland,associates,Howard Community College,45100,70200,6
+Maryland,associates,College of Southern Maryland,44700,68400,11
+Maryland,associates,Prince George's Community College,45300,68300,7
+Maryland,associates,Community College of Baltimore County,44000,68200,5
+Maryland,associates,Montgomery College,44800,67500,12
+Maryland,associates,Anne Arundel Community College,44500,65800,15
+Maryland,associates,Cecil College,43400,64500,2
+Maryland,associates,Frederick Community College,45000,63900,4
+Maryland,associates,Allegany College of Maryland,43500,62400,1
+Maryland,associates,Harford Community College,42800,61600,8
+Maryland,associates,Baltimore City Community College,43500,61600,3
+Maryland,associates,Carroll Community College,40900,60000,5
+Maryland,associates,Hagerstown Community College,41700,57900,9
+Maryland,associates,Wor-Wic Community College,38300,57100,5
+Maryland,associates,Chesapeake College,41300,55000,3
+Massachusetts,bachelors,Massachusetts Institute of Technology,86300,155200,69
+Massachusetts,bachelors,Harvard University,74800,146800,19
+Massachusetts,bachelors,Worcester Polytechnic Institute,73600,135500,86
+Massachusetts,bachelors,Babson College,72000,133800,0
+Massachusetts,bachelors,Williams College,67500,127500,32
+Massachusetts,bachelors,MCPHS University,65900,121800,2
+Massachusetts,bachelors,Tufts University,65200,118100,25
+Massachusetts,bachelors,Massachusetts Maritime Academy,67900,117500,47
+Massachusetts,bachelors,Bentley University,66600,116600,7
+Massachusetts,bachelors,Amherst College,63800,116500,32
+Massachusetts,bachelors,Boston College,63600,115400,13
+Massachusetts,bachelors,College of the Holy Cross,61800,114600,24
+Massachusetts,bachelors,Boston University,61400,113600,25
+Massachusetts,bachelors,Brandeis University,60600,113200,29
+Massachusetts,bachelors,Wentworth Institute of Technology,62700,112700,39
+Massachusetts,bachelors,Northeastern University,62500,109700,40
+Massachusetts,bachelors,University of Massachusetts-Lowell,58800,109300,35
+Massachusetts,bachelors,Wellesley College,58900,106200,34
+Massachusetts,bachelors,Stonehill College,55900,103200,18
+Massachusetts,bachelors,Western New England University,56400,103000,21
+Massachusetts,bachelors,University of Massachusetts-Amherst,57400,103000,24
+Massachusetts,bachelors,Merrimack College,56000,102500,13
+Massachusetts,bachelors,Clark University,52600,101400,14
+Massachusetts,bachelors,Smith College,52700,98200,26
+Massachusetts,bachelors,Wheaton College (Massachusetts),52600,97500,28
+Massachusetts,bachelors,Suffolk University,52700,96400,6
+Massachusetts,bachelors,Assumption College,53100,95700,9
+Massachusetts,bachelors,University of Massachusetts-Boston,53200,95400,13
+Massachusetts,bachelors,University of Massachusetts-Dartmouth,53400,95200,22
+Massachusetts,bachelors,Simmons College,53400,94300,3
+Massachusetts,bachelors,Emerson College,50700,94300,0
+Massachusetts,bachelors,National Graduate School of Quality Management,52800,93500,0
+Massachusetts,bachelors,Nichols College,51900,93200,1
+Massachusetts,bachelors,Boston Architectural College,48800,92600,0
+Massachusetts,bachelors,Hampshire College,48500,92300,16
+Massachusetts,bachelors,Mount Holyoke College,51800,92100,28
+Massachusetts,bachelors,Gordon College,50000,91300,17
+Massachusetts,bachelors,Emmanuel College,50100,90700,19
+Massachusetts,bachelors,Framingham State University,49700,90500,8
+Massachusetts,bachelors,Regis College,51400,89400,2
+Massachusetts,bachelors,Massachusetts College of Art and Design,50400,89400,0
+Massachusetts,bachelors,Fitchburg State University,47700,88600,14
+Massachusetts,bachelors,Eastern Nazarene College,48300,88500,9
+Massachusetts,bachelors,American International College,51400,87900,1
+Massachusetts,bachelors,Pine Manor College,49100,87400,19
+Massachusetts,bachelors,Curry College,48600,87300,3
+Massachusetts,bachelors,Worcester State University,49300,86600,12
+Massachusetts,bachelors,Salem State University,47200,86300,9
+Massachusetts,bachelors,Bridgewater State University,48100,85800,8
+Massachusetts,bachelors,The New England Conservatory of Music,46600,85400,0
+Massachusetts,bachelors,Lesley University,44300,85400,2
+Massachusetts,bachelors,Endicott College,49900,84400,3
+Massachusetts,bachelors,Berklee College of Music,48400,84200,0
+Massachusetts,bachelors,Lasell College,45200,82900,0
+Massachusetts,bachelors,College of Our Lady of the Elms,47900,82800,7
+Massachusetts,bachelors,Westfield State University,47300,82400,7
+Massachusetts,bachelors,Dean College,44700,82100,1
+Massachusetts,bachelors,Anna Maria College,45000,82000,0
+Massachusetts,bachelors,Becker College,46300,81900,3
+Massachusetts,bachelors,Newbury College,44900,80100,6
+Massachusetts,bachelors,Fisher College,43800,78200,2
+Massachusetts,bachelors,Massachusetts College of Liberal Arts,44100,77400,11
+Massachusetts,bachelors,Mount Ida College,42900,74600,1
+Massachusetts,bachelors,Cambridge College,41000,74000,0
+Massachusetts,bachelors,Springfield College,42800,72800,4
+Massachusetts,bachelors,Bay Path University,42900,72700,4
+Massachusetts,bachelors,Wheelock College,37300,66600,3
+Massachusetts,bachelors,Northpoint Bible College,33600,61700,0
+Massachusetts,associates,Laboure College,63500,85400,0
+Massachusetts,associates,Lawrence Memorial Hospital School of Nursing,57300,80900,0
+Massachusetts,associates,Regis College,53900,75800,2
+Massachusetts,associates,University of Massachusetts-Lowell,52700,73800,35
+Massachusetts,associates,Benjamin Franklin Institute of Technology,47300,73200,0
+Massachusetts,associates,Middlesex Community College (Massachusetts),47300,70600,4
+Massachusetts,associates,Bentley University,47000,69500,7
+Massachusetts,associates,Massachusetts Bay Community College,47200,67900,6
+Massachusetts,associates,Bunker Hill Community College,46400,67600,16
+Massachusetts,associates,Quincy College,47300,67500,4
+Massachusetts,associates,Dean College,44600,67300,1
+Massachusetts,associates,Springfield Technical Community College,47400,66200,9
+Massachusetts,associates,Massasoit Community College,44900,65500,7
+Massachusetts,associates,North Shore Community College,44800,65200,5
+Massachusetts,associates,Cape Cod Community College,44000,65000,3
+Massachusetts,associates,Suffolk University,44400,64900,6
+Massachusetts,associates,Northern Essex Community College,43300,64800,12
+Massachusetts,associates,University of Massachusetts-Amherst,45600,64600,24
+Massachusetts,associates,Newbury College,44900,63100,6
+Massachusetts,associates,Becker College,43100,63100,3
+Massachusetts,associates,Eastern Nazarene College,42200,62900,9
+Massachusetts,associates,Quinsigamond Community College,43200,62900,10
+Massachusetts,associates,Mount Ida College,43100,61600,1
+Massachusetts,associates,Mount Wachusett Community College,43300,61500,11
+Massachusetts,associates,Bristol Community College,41300,61200,5
+Massachusetts,associates,Greenfield Community College,42700,60300,6
+Massachusetts,associates,Roxbury Community College,42700,60100,13
+Massachusetts,associates,Endicott College,41300,59600,3
+Massachusetts,associates,Bay Path University,42900,59300,4
+Massachusetts,associates,Fisher College,41300,58900,2
+Massachusetts,associates,Holyoke Community College,38700,58100,10
+Massachusetts,associates,Berkshire Community College,42200,56600,7
+Michigan,bachelors,Kettering University,69900,125000,74
+Michigan,bachelors,Michigan Technological University,65000,116300,81
+Michigan,bachelors,University of Michigan-Ann Arbor,63500,112200,38
+Michigan,bachelors,Lawrence Technological University,57900,108400,60
+Michigan,bachelors,Michigan State University,55300,100800,20
+Michigan,bachelors,University of Michigan-Dearborn,55700,99500,37
+Michigan,bachelors,Albion College,52100,99300,23
+Michigan,bachelors,Kalamazoo College,51600,94500,31
+Michigan,bachelors,Oakland University,51300,93300,19
+Michigan,bachelors,University of Detroit Mercy,51800,92800,13
+Michigan,bachelors,Western Michigan University,50900,92200,16
+Michigan,bachelors,Wayne State University,50800,91700,21
+Michigan,bachelors,Calvin College,50200,91100,23
+Michigan,bachelors,Hope College,49200,90900,18
+Michigan,bachelors,Alma College,48400,89900,15
+Michigan,bachelors,College for Creative Studies,51200,89800,0
+Michigan,bachelors,Ferris State University,50000,89300,8
+Michigan,bachelors,Eastern Michigan University,47300,86700,6
+Michigan,bachelors,Northwood University,47800,86300,1
+Michigan,bachelors,Walsh College of Accountancy and Business Administration,49400,85200,5
+Michigan,bachelors,Andrews University,47600,85000,7
+Michigan,bachelors,Cleary University,47400,84700,0
+Michigan,bachelors,Central Michigan University,47700,83600,13
+Michigan,bachelors,Lake Superior State University,45900,83500,14
+Michigan,bachelors,Saginaw Valley State University,46400,82200,12
+Michigan,bachelors,Grand Valley State University,47400,82100,11
+Michigan,bachelors,Siena Heights University,43400,79900,4
+Michigan,bachelors,Northern Michigan University,45200,79900,11
+Michigan,bachelors,Olivet College,44600,79800,9
+Michigan,bachelors,University of Michigan-Flint,45700,79400,16
+Michigan,bachelors,Baker College,46300,79300,8
+Michigan,bachelors,Adrian College,42400,78000,12
+Michigan,bachelors,Madonna University,44300,77700,4
+Michigan,bachelors,Aquinas College,41300,76100,14
+Michigan,bachelors,Davenport University,44700,74700,7
+Michigan,bachelors,Marygrove College,40700,73500,3
+Michigan,bachelors,Spring Arbor University,40200,73400,1
+Michigan,bachelors,Cornerstone University,41800,72000,1
+Michigan,bachelors,Rochester College,38700,69300,1
+Michigan,bachelors,Concordia University-Ann Arbor,37000,67600,14
+Michigan,bachelors,Grace Bible College,36100,64100,0
+Michigan,bachelors,Great Lakes Christian College,31900,57900,0
+Michigan,associates,Lawrence Technological University,47800,70400,60
+Michigan,associates,Finlandia University,45700,63500,2
+Michigan,associates,Henry Ford College,41700,63400,9
+Michigan,associates,Ferris State University,43600,62400,8
+Michigan,associates,Jackson College,40700,61800,11
+Michigan,associates,Schoolcraft College,41600,61300,8
+Michigan,associates,Northwood University,42100,61100,1
+Michigan,associates,St Clair County Community College,40500,61100,3
+Michigan,associates,Macomb Community College,40900,61100,4
+Michigan,associates,Kirtland Community College,41700,61000,0
+Michigan,associates,Washtenaw Community College,40000,60700,5
+Michigan,associates,Kellogg Community College,42100,60300,0
+Michigan,associates,Oakland Community College,39400,59900,3
+Michigan,associates,Mott Community College,41800,59700,8
+Michigan,associates,Monroe County Community College,39300,59300,4
+Michigan,associates,Grand Rapids Community College,39700,59100,3
+Michigan,associates,Lansing Community College,41000,58500,9
+Michigan,associates,Kalamazoo Valley Community College,39500,58400,5
+Michigan,associates,Cleary University,41000,58200,0
+Michigan,associates,West Shore Community College,37500,57600,1
+Michigan,associates,Lake Michigan College,40200,57500,4
+Michigan,associates,Muskegon Community College,40000,57000,2
+Michigan,associates,Southwestern Michigan College,39000,56900,2
+Michigan,associates,Bay de Noc Community College,37000,56600,3
+Michigan,associates,North Central Michigan College,36600,56400,8
+Michigan,associates,Montcalm Community College,37100,55800,1
+Michigan,associates,Glen Oaks Community College,36700,55400,1
+Michigan,associates,Delta College,38300,54800,3
+Michigan,associates,Mid Michigan Community College,36800,54400,1
+Michigan,associates,Alpena Community College,37300,54400,7
+Michigan,associates,Wayne County Community College District,38500,54200,6
+Michigan,associates,Baker College,38800,54000,8
+Michigan,associates,Lake Superior State University,36300,53600,14
+Michigan,associates,Northern Michigan University,36800,53400,11
+Michigan,associates,Gogebic Community College,35100,52800,4
+Michigan,associates,Northwestern Michigan College,36300,52700,6
+Michigan,associates,Cornerstone University,34200,51200,1
+Michigan,associates,Davenport University,36100,51200,7
+Michigan,associates,Great Lakes Christian College,33200,50600,0
+Minnesota,bachelors,Carleton College,58800,109900,45
+Minnesota,bachelors,Saint Johns University,59400,108400,25
+Minnesota,bachelors,University of St Thomas (Minnesota),57500,106400,20
+Minnesota,bachelors,University of Minnesota-Twin Cities,57200,104000,30
+Minnesota,bachelors,St Olaf College,54100,101900,30
+Minnesota,bachelors,Macalester College,53600,100400,31
+Minnesota,bachelors,Gustavus Adolphus College,51200,96800,22
+Minnesota,bachelors,Dunwoody College of Technology,53400,96600,24
+Minnesota,bachelors,University of Minnesota-Duluth,53200,95700,30
+Minnesota,bachelors,Saint Mary's University of Minnesota,53000,93700,5
+Minnesota,bachelors,Saint Cloud State University,51600,91600,15
+Minnesota,bachelors,Augsburg University,50500,91000,11
+Minnesota,bachelors,Minnesota State University-Mankato,51600,90900,13
+Minnesota,bachelors,Hamline University,48100,90400,5
+Minnesota,bachelors,College of Saint Benedict,49100,88600,18
+Minnesota,bachelors,Concordia University-Saint Paul,49200,86800,5
+Minnesota,bachelors,Winona State University,49700,86800,10
+Minnesota,bachelors,The College of Saint Scholastica,51200,86800,12
+Minnesota,bachelors,University of Minnesota-Crookston,49200,86400,4
+Minnesota,bachelors,Metropolitan State University,50200,85900,11
+Minnesota,bachelors,Bethel University (Minnesota),51000,85700,9
+Minnesota,bachelors,University of Minnesota-Morris,46100,85300,27
+Minnesota,bachelors,Concordia College at Moorhead,46800,85200,21
+Minnesota,bachelors,Minneapolis College of Art and Design,47400,84700,0
+Minnesota,bachelors,St Catherine University,48800,82600,2
+Minnesota,bachelors,Minnesota State University Moorhead,44700,81600,9
+Minnesota,bachelors,Bemidji State University,46600,81500,7
+Minnesota,bachelors,Southwest Minnesota State University,44900,78900,6
+Minnesota,bachelors,University of Northwestern-St Paul,44200,75500,9
+Minnesota,bachelors,Crown College,42600,74400,3
+Minnesota,bachelors,North Central University,39100,69400,1
+Minnesota,bachelors,Martin Luther College,35200,64000,0
+Minnesota,associates,Dunwoody College of Technology,50500,73500,24
+Minnesota,associates,St Catherine University,54100,72200,2
+Minnesota,associates,Herzing University-Minneapolis,47600,68300,1
+Minnesota,associates,Normandale Community College,44700,66700,7
+Minnesota,associates,Minnesota State University-Mankato,47200,66100,13
+Minnesota,associates,Inver Hills Community College,44400,65300,5
+Minnesota,associates,Saint Cloud State University,43300,65100,15
+Minnesota,associates,North Hennepin Community College,45200,64200,9
+Minnesota,associates,Anoka-Ramsey Community College,43600,63900,7
+Minnesota,associates,Saint Paul College,43600,63700,5
+Minnesota,associates,Hibbing Community College,44800,63100,4
+Minnesota,associates,St Cloud Technical and Community College,43300,62700,3
+Minnesota,associates,Anoka Technical College,44600,62500,0
+Minnesota,associates,Lake Superior College,43400,62400,2
+Minnesota,associates,Southwest Minnesota State University,40500,62400,6
+Minnesota,associates,Minnesota State College Southeast,42500,62200,3
+Minnesota,associates,Dakota County Technical College,44100,62100,6
+Minnesota,associates,Alexandria Technical & Community College,40900,61700,3
+Minnesota,associates,Minneapolis Community and Technical College,43100,61700,13
+Minnesota,associates,Century College,43600,61700,5
+Minnesota,associates,South Central College,40700,61500,5
+Minnesota,associates,Bemidji State University,41800,61400,7
+Minnesota,associates,Minnesota West Community and Technical College,40100,61100,1
+Minnesota,associates,Hennepin Technical College,43800,61000,8
+Minnesota,associates,Minnesota State Community and Technical College,41900,60000,5
+Minnesota,associates,Itasca Community College,39000,59400,14
+Minnesota,associates,Northland Community and Technical College,40200,59200,2
+Minnesota,associates,Minnesota State University Moorhead,40200,59100,9
+Minnesota,associates,Rochester Community and Technical College,41600,59000,2
+Minnesota,associates,Riverland Community College,40400,58900,2
+Minnesota,associates,Central Lakes College-Brainerd,40100,58800,2
+Minnesota,associates,Ridgewater College,40500,58600,2
+Minnesota,associates,Winona State University,38800,58300,10
+Minnesota,associates,Vermilion Community College,38400,57400,2
+Minnesota,associates,Northwest Technical College,38500,56800,2
+Minnesota,associates,University of Northwestern-St Paul,40000,55800,9
+Minnesota,associates,Mesabi Range College,37100,55000,0
+Mississippi,bachelors,Mississippi State University,51100,94100,27
+Mississippi,bachelors,University of Mississippi,48500,89100,12
+Mississippi,bachelors,Millsaps College,49300,88700,24
+Mississippi,bachelors,University of Southern Mississippi,45100,83900,11
+Mississippi,bachelors,Mississippi College,45200,79500,20
+Mississippi,bachelors,Jackson State University,41700,74600,16
+Mississippi,bachelors,Belhaven University,41200,74300,2
+Mississippi,bachelors,Delta State University,40800,74200,5
+Mississippi,bachelors,William Carey University,41100,71800,6
+Mississippi,bachelors,Alcorn State University,40900,69500,19
+Mississippi,bachelors,Mississippi University for Women,39500,69500,2
+Mississippi,bachelors,Tougaloo College,36900,66400,18
+Mississippi,bachelors,Rust College,34800,62400,32
+Mississippi,bachelors,Mississippi Valley State University,32500,61900,11
+Mississippi,associates,Mississippi University for Women,49900,71600,2
+Mississippi,associates,Alcorn State University,50800,70900,19
+Mississippi,associates,Pearl River Community College,41500,60700,1
+Mississippi,associates,Southwest Mississippi Community College,38800,59700,2
+Mississippi,associates,Mississippi Gulf Coast Community College,38300,58500,9
+Mississippi,associates,Northeast Mississippi Community College,39300,57400,2
+Mississippi,associates,Meridian Community College,39400,55500,1
+Mississippi,associates,Itawamba Community College,36100,55300,7
+Mississippi,associates,Northwest Mississippi Community College,37500,55100,2
+Mississippi,associates,Hinds Community College,36700,55000,4
+Mississippi,associates,Holmes Community College,36200,53100,7
+Mississippi,associates,Mississippi Delta Community College,36300,53000,5
+Mississippi,associates,Copiah-Lincoln Community College,36800,52800,17
+Mississippi,associates,East Central Community College,34100,51300,1
+Mississippi,associates,Jones County Junior College,34700,50500,3
+Mississippi,associates,East Mississippi Community College,32800,48700,7
+Missouri,bachelors,Missouri University of Science and Technology,67300,122600,80
+Missouri,bachelors,Washington University in St Louis,64800,114900,30
+Missouri,bachelors,University of Missouri-Columbia,52300,98600,17
+Missouri,bachelors,Saint Louis University,54200,95300,13
+Missouri,bachelors,Barnes-Jewish College Goldfarb School of Nursing,55000,95200,0
+Missouri,bachelors,William Jewell College,51400,94500,12
+Missouri,bachelors,Rockhurst University,54000,92500,11
+Missouri,bachelors,Westminster College (Missouri),49400,91600,25
+Missouri,bachelors,University of Missouri-Kansas City,50800,89600,24
+Missouri,bachelors,University of Missouri-St Louis,48700,87500,13
+Missouri,bachelors,Missouri State University-Springfield,45900,86800,9
+Missouri,bachelors,Truman State University,47900,85800,16
+Missouri,bachelors,Northwest Missouri State University,46900,85100,26
+Missouri,bachelors,Park University,48500,85000,7
+Missouri,bachelors,Webster University,46500,83500,2
+Missouri,bachelors,University of Central Missouri,46900,83300,45
+Missouri,bachelors,Avila University,45900,81200,3
+Missouri,bachelors,Maryville University of Saint Louis,46800,80100,2
+Missouri,bachelors,Drury University,42600,79400,12
+Missouri,bachelors,Southeast Missouri State University,43700,79100,9
+Missouri,bachelors,Lindenwood University,45100,78500,9
+Missouri,bachelors,Kansas City Art Institute,42500,77700,0
+Missouri,bachelors,Missouri Western State University,43400,77700,14
+Missouri,bachelors,Stephens College,42800,77200,6
+Missouri,bachelors,Columbia College (Missouri),44100,76600,2
+Missouri,bachelors,Missouri Southern State University,43600,76500,9
+Missouri,bachelors,Central Methodist University-College of Liberal Arts and Sciences,42700,76100,16
+Missouri,bachelors,Fontbonne University,43500,75600,7
+Missouri,bachelors,Culver-Stockton College,41500,75500,7
+Missouri,bachelors,Missouri Baptist University,42300,75200,3
+Missouri,bachelors,Evangel University,41200,73300,6
+Missouri,bachelors,Southwest Baptist University,41900,72600,4
+Missouri,bachelors,Lincoln University (Missouri),38800,71500,7
+Missouri,bachelors,College of the Ozarks,39200,71100,8
+Missouri,bachelors,William Woods University,39800,70600,2
+Missouri,bachelors,Missouri Valley College,38900,70300,9
+Missouri,bachelors,Hannibal-LaGrange University,38100,69400,4
+Missouri,bachelors,Harris-Stowe State University,37600,68100,4
+Missouri,bachelors,Calvary University,37800,68000,0
+Missouri,bachelors,Saint Louis Christian College,37500,67900,0
+Missouri,bachelors,Ozark Christian College,35600,63700,0
+Missouri,bachelors,Baptist Bible College,33400,60900,0
+Missouri,associates,Park University,49800,70600,7
+Missouri,associates,Ranken Technical College,47800,70400,3
+Missouri,associates,Cox College,45500,66500,0
+Missouri,associates,Lincoln University (Missouri),46500,66000,7
+Missouri,associates,Missouri Southern State University,43900,63800,9
+Missouri,associates,Saint Louis University,42900,62200,13
+Missouri,associates,Metropolitan Community College-Kansas City,40300,61200,3
+Missouri,associates,State Technical College of Missouri,40100,61200,8
+Missouri,associates,Southeast Missouri State University,39500,61100,9
+Missouri,associates,Columbia College (Missouri),38600,60500,2
+Missouri,associates,Jefferson College,39200,60300,3
+Missouri,associates,Saint Louis Community College,39500,60200,4
+Missouri,associates,St Charles Community College,40200,60100,11
+Missouri,associates,North Central Missouri College,41200,59700,0
+Missouri,associates,East Central College,38100,58400,1
+Missouri,associates,Missouri Western State University,39500,58200,14
+Missouri,associates,Three Rivers College,36600,57000,2
+Missouri,associates,Crowder College,38100,55800,2
+Missouri,associates,Mineral Area College,36200,54900,1
+Missouri,associates,State Fair Community College,38800,54600,3
+Missouri,associates,Moberly Area Community College,34100,52900,4
+Missouri,associates,Ozarks Technical Community College,36000,50900,6
+Missouri,associates,Drury University,31600,46600,12
+Montana,bachelors,Montana Tech of the University of Montana,61200,112600,61
+Montana,bachelors,Montana State University,53700,96200,31
+Montana,bachelors,Carroll College,48200,91400,25
+Montana,bachelors,The University of Montana,46500,87800,8
+Montana,bachelors,Rocky Mountain College,46000,82900,12
+Montana,bachelors,University of Providence,44700,81900,16
+Montana,bachelors,Montana State University-Billings,43300,77700,5
+Montana,bachelors,Montana State University-Northern,43400,75400,1
+Montana,bachelors,The University of Montana-Western,35400,63700,4
+Montana,associates,Montana State University-Northern,50500,70600,1
+Montana,associates,Dawson Community College,41800,62100,0
+Montana,associates,Montana Tech of the University of Montana,41700,62000,61
+Montana,associates,University of Providence,40500,61200,16
+Montana,associates,The University of Montana,42200,61200,8
+Montana,associates,Montana State University,41500,61100,31
+Montana,associates,Helena College University of Montana,41400,59700,8
+Montana,associates,Miles Community College,40300,58600,2
+Montana,associates,Great Falls College Montana State University,39500,58500,3
+Montana,associates,Flathead Valley Community College,36800,54800,1
+Nebraska,bachelors,University of Nebraska-Lincoln,51500,96700,20
+Nebraska,bachelors,Creighton University,53500,95800,9
+Nebraska,bachelors,University of Nebraska Medical Center,53400,93000,6
+Nebraska,bachelors,Clarkson College,50900,91500,0
+Nebraska,bachelors,Nebraska Methodist College of Nursing & Allied Health,51300,89800,0
+Nebraska,bachelors,University of Nebraska at Omaha,49400,89500,18
+Nebraska,bachelors,Union College (Nebraska),49100,87800,9
+Nebraska,bachelors,Hastings College,48600,87100,14
+Nebraska,bachelors,Doane University-Arts & Sciences,47300,85300,21
+Nebraska,bachelors,Bellevue University,49400,84800,23
+Nebraska,bachelors,University of Nebraska at Kearney,44300,80800,8
+Nebraska,bachelors,Nebraska Wesleyan University,45700,80500,8
+Nebraska,bachelors,Midland University,43800,78100,7
+Nebraska,bachelors,College of Saint Mary,43900,77700,9
+Nebraska,bachelors,Doane University-Graduate and Professional Studies,43200,77000,0
+Nebraska,bachelors,Chadron State College,42300,76700,3
+Nebraska,bachelors,Peru State College,42600,74800,6
+Nebraska,bachelors,Wayne State College,40600,73400,11
+Nebraska,bachelors,Concordia University-Nebraska,39700,68900,5
+Nebraska,associates,Bryan College of Health Sciences,50200,70500,0
+Nebraska,associates,College of Saint Mary,47700,66900,9
+Nebraska,associates,University of Nebraska-Lincoln,44300,65900,20
+Nebraska,associates,Southeast Community College Area,40800,59700,5
+Nebraska,associates,Metropolitan Community College Area,38700,58500,6
+Nebraska,associates,Mid-Plains Community College,38100,57400,2
+Nebraska,associates,Central Community College,37800,54400,3
+Nebraska,associates,Northeast Community College,38300,53500,6
+Nebraska,associates,Western Nebraska Community College,37400,53200,6
+Nevada,bachelors,Sierra Nevada College,54000,95500,2
+Nevada,bachelors,University of Nevada-Reno,52700,95000,24
+Nevada,bachelors,University of Nevada-Las Vegas,50400,90400,12
+Nevada,associates,Great Basin College,45000,66600,1
+Nevada,associates,College of Southern Nevada,44200,64400,6
+Nevada,associates,Truckee Meadows Community College,40600,63700,2
+Nevada,associates,Western Nevada College,41400,61100,10
+New Hampshire,bachelors,Dartmouth College,71500,130900,35
+New Hampshire,bachelors,Saint Anselm College,56400,100300,11
+New Hampshire,bachelors,University of New Hampshire-Main Campus,54300,100300,23
+New Hampshire,bachelors,University of New Hampshire at Manchester,51900,90900,32
+New Hampshire,bachelors,Thomas More College of Liberal Arts,48900,88300,0
+New Hampshire,bachelors,New England College,45700,86400,24
+New Hampshire,bachelors,Franklin Pierce University,47800,85600,3
+New Hampshire,bachelors,Rivier University,49500,85100,41
+New Hampshire,bachelors,Colby-Sawyer College,46400,83700,7
+New Hampshire,bachelors,Keene State College,48900,83600,8
+New Hampshire,bachelors,Southern New Hampshire University,47400,83400,8
+New Hampshire,bachelors,Plymouth State University,47000,82200,6
+New Hampshire,bachelors,Granite State College,43500,76900,3
+New Hampshire,associates,Rivier University,58800,78600,41
+New Hampshire,associates,NHTI-Concord's Community College,45200,70200,8
+New Hampshire,associates,St Joseph School of Nursing,50700,69800,0
+New Hampshire,associates,University of New Hampshire-Main Campus,42500,68900,23
+New Hampshire,associates,Manchester Community College (New Hampshire),46400,68600,2
+New Hampshire,associates,New England College,45700,68200,24
+New Hampshire,associates,Nashua Community College,42000,65100,11
+New Hampshire,associates,Franklin Pierce University,41600,64500,3
+New Hampshire,associates,Southern New Hampshire University,42400,64000,8
+New Hampshire,associates,River Valley Community College,44400,62800,3
+New Hampshire,associates,University of New Hampshire at Manchester,41500,62800,32
+New Hampshire,associates,Lakes Region Community College,41300,62400,1
+New Hampshire,associates,White Mountains Community College,42400,62300,1
+New Hampshire,associates,Keene State College,41500,61800,8
+New Hampshire,associates,Great Bay Community College,40700,61500,15
+New Hampshire,associates,Granite State College,40400,60800,3
+New Hampshire,associates,Colby-Sawyer College,35600,53700,7
+New Jersey,bachelors,Stevens Institute of Technology,75100,139900,79
+New Jersey,bachelors,Princeton University,75200,139400,48
+New Jersey,bachelors,New Jersey Institute of Technology,64600,121300,75
+New Jersey,bachelors,Rutgers University-New Brunswick,59800,111000,29
+New Jersey,bachelors,Seton Hall University,57100,103800,8
+New Jersey,bachelors,Rutgers University-Newark,57900,101800,11
+New Jersey,bachelors,The College of New Jersey,58200,101800,16
+New Jersey,bachelors,Rider University,51600,99000,5
+New Jersey,bachelors,Fairleigh Dickinson University-Florham Campus,53700,98500,6
+New Jersey,bachelors,Fairleigh Dickinson University-Florham Campus,53700,98500,6
+New Jersey,bachelors,Felician University,53200,98200,10
+New Jersey,bachelors,Saint Peter's University,52900,95900,14
+New Jersey,bachelors,Thomas Edison State University,52500,95600,0
+New Jersey,bachelors,Montclair State University,50800,95400,9
+New Jersey,bachelors,Ramapo College of New Jersey,51600,95200,12
+New Jersey,bachelors,Drew University,52800,95000,16
+New Jersey,bachelors,Rutgers University-Camden,51100,93900,9
+New Jersey,bachelors,Monmouth University,52200,93200,13
+New Jersey,bachelors,Fairleigh Dickinson University-Metropolitan Campus,50800,93000,23
+New Jersey,bachelors,Rowan University,51100,91200,21
+New Jersey,bachelors,William Paterson University of New Jersey,50500,90200,7
+New Jersey,bachelors,Kean University,48200,90000,10
+New Jersey,bachelors,Bloomfield College,48400,89100,17
+New Jersey,bachelors,New Jersey City University,48700,87600,9
+New Jersey,bachelors,Stockton University,47400,85800,16
+New Jersey,bachelors,Caldwell University,46000,84700,7
+New Jersey,bachelors,College of Saint Elizabeth,48500,84300,4
+New Jersey,bachelors,Centenary University,45900,83300,2
+New Jersey,bachelors,Georgian Court University,43900,80500,7
+New Jersey,associates,County College of Morris,46600,71700,5
+New Jersey,associates,Bergen Community College,44900,71100,2
+New Jersey,associates,Thomas Edison State University,47600,70000,0
+New Jersey,associates,Union County College,43200,68600,11
+New Jersey,associates,Mercer County Community College,44000,67800,4
+New Jersey,associates,Raritan Valley Community College,45700,67300,6
+New Jersey,associates,Rutgers University-New Brunswick,45300,67000,29
+New Jersey,associates,Felician University,46600,66800,10
+New Jersey,associates,Brookdale Community College,43800,66400,6
+New Jersey,associates,Fairleigh Dickinson University-Metropolitan Campus,43600,66400,23
+New Jersey,associates,Rowan College at Gloucester County,42300,65800,10
+New Jersey,associates,Salem Community College,44600,65500,4
+New Jersey,associates,Middlesex County College,44200,65300,12
+New Jersey,associates,Passaic County Community College,42400,65000,4
+New Jersey,associates,Saint Peter's University,43500,64600,14
+New Jersey,associates,Rowan College at Burlington County,44300,62500,0
+New Jersey,associates,Centenary University,44500,62400,2
+New Jersey,associates,Ocean County College,40600,61900,2
+New Jersey,associates,Essex County College,42200,61800,11
+New Jersey,associates,Camden County College,39500,61600,2
+New Jersey,associates,Cumberland County College,41200,60300,16
+New Jersey,associates,Atlantic Cape Community College,37900,58600,6
+New Jersey,associates,Hudson County Community College,39000,58100,6
+New Jersey,associates,Sussex County Community College,39300,58100,1
+New Jersey,associates,Warren County Community College,37900,58000,4
+New Mexico,bachelors,New Mexico Institute of Mining and Technology,64700,120400,91
+New Mexico,bachelors,New Mexico State University-Main Campus,50400,96700,22
+New Mexico,bachelors,University of New Mexico-Main Campus,48400,94000,19
+New Mexico,bachelors,Eastern New Mexico University-Main Campus,44500,80500,5
+New Mexico,bachelors,Western New Mexico University,41700,76700,4
+New Mexico,bachelors,New Mexico Highlands University,40400,73800,4
+New Mexico,associates,Eastern New Mexico University-Roswell Campus,46000,71500,2
+New Mexico,associates,New Mexico State University-Carlsbad,46900,68400,0
+New Mexico,associates,New Mexico Military Institute,43500,65500,0
+New Mexico,associates,New Mexico State University-Alamogordo,43500,65200,6
+New Mexico,associates,New Mexico State University-Main Campus,41800,64600,22
+New Mexico,associates,New Mexico Junior College,43700,63300,0
+New Mexico,associates,San Juan College,41800,63000,3
+New Mexico,associates,Northern New Mexico College,43900,62700,5
+New Mexico,associates,Santa Fe Community College,42400,61200,2
+New Mexico,associates,Luna Community College,40300,61200,11
+New Mexico,associates,Eastern New Mexico University-Main Campus,39200,59100,5
+New Mexico,associates,Clovis Community College,40800,56300,5
+New Mexico,associates,New Mexico State University-Dona Ana,36500,56300,6
+New Mexico,associates,Central New Mexico Community College,39800,55500,2
+New York,bachelors,Albany College of Pharmacy and Health Sciences,81000,144800,2
+New York,bachelors,United States Military Academy,80200,144000,39
+New York,bachelors,Webb Institute,80800,141800,100
+New York,bachelors,United States Merchant Marine Academy,80600,140700,56
+New York,bachelors,SUNY Maritime College,74900,140700,32
+New York,bachelors,Rensselaer Polytechnic Institute,71300,134100,78
+New York,bachelors,Colgate University,68400,130600,26
+New York,bachelors,Clarkson University,66400,130100,58
+New York,bachelors,Cornell University,70100,128200,43
+New York,bachelors,Columbia University in the City of New York,71400,126800,30
+New York,bachelors,Cooper Union for the Advancement of Science and Art,68500,126200,56
+New York,bachelors,Manhattan College,64000,125700,40
+New York,bachelors,New York University,63100,117700,18
+New York,bachelors,Union College (New York),63300,117500,47
+New York,bachelors,Yeshiva University,63500,112800,11
+New York,bachelors,University of Rochester,61100,112700,32
+New York,bachelors,Fordham University,58700,112500,10
+New York,bachelors,Hofstra University,57300,110400,7
+New York,bachelors,Barnard College,59200,109800,19
+New York,bachelors,Binghamton University,61300,109600,34
+New York,bachelors,SUNY Downstate Medical Center,64000,109300,0
+New York,bachelors,Hobart William Smith Colleges,56500,108500,18
+New York,bachelors,Hamilton College,62600,108100,25
+New York,bachelors,Pace University-New York,59800,107800,14
+New York,bachelors,Stony Brook University,59200,107800,35
+New York,bachelors,CUNY Bernard M Baruch College,58800,107100,8
+New York,bachelors,St John's University-New York,55400,106600,7
+New York,bachelors,Rochester Institute of Technology,61500,106600,50
+New York,bachelors,Iona College,56200,106200,4
+New York,bachelors,Wagner College,58100,105900,8
+New York,bachelors,Syracuse University,58100,104800,27
+New York,bachelors,New York Institute of Technology,55300,104400,35
+New York,bachelors,LIU Brooklyn,56100,104100,9
+New York,bachelors,St Lawrence University,55700,104000,24
+New York,bachelors,Touro College,58100,103100,6
+New York,bachelors,Pratt Institute-Main,54000,102300,0
+New York,bachelors,The New School,54600,101700,6
+New York,bachelors,SUNY at Albany,53400,101700,19
+New York,bachelors,Siena College,53800,101500,18
+New York,bachelors,Marist College,55800,101000,17
+New York,bachelors,Fashion Institute of Technology,54200,100500,0
+New York,bachelors,Vassar College,55400,100100,24
+New York,bachelors,Skidmore College,54700,99700,22
+New York,bachelors,Molloy College,58500,99500,3
+New York,bachelors,Hartwick College,53100,99200,19
+New York,bachelors,LIU Post,52500,99200,8
+New York,bachelors,CUNY City College,53500,99100,33
+New York,bachelors,Ithaca College,52900,98600,8
+New York,bachelors,Excelsior College,54900,98200,1
+New York,bachelors,University at Buffalo,53700,98000,33
+New York,bachelors,CUNY Brooklyn College,51300,97800,8
+New York,bachelors,Manhattanville College,55700,97500,4
+New York,bachelors,The Juilliard School,53600,97400,0
+New York,bachelors,SUNY College of Environmental Science and Forestry,52600,97000,49
+New York,bachelors,CUNY Queens College,52400,96700,8
+New York,bachelors,Adelphi University,53700,96400,6
+New York,bachelors,Sarah Lawrence College,52100,96100,0
+New York,bachelors,Vaughn College of Aeronautics and Technology,53300,95000,4
+New York,bachelors,College of Staten Island CUNY,52000,94600,11
+New York,bachelors,CUNY Hunter College,52000,94500,8
+New York,bachelors,Manhattan School of Music,52000,94000,0
+New York,bachelors,Farmingdale State College,52500,93800,9
+New York,bachelors,Upstate Medical University,54600,93800,5
+New York,bachelors,CUNY New York City College of Technology,51400,93700,19
+New York,bachelors,SUNY College at Geneseo,51100,93300,23
+New York,bachelors,St Francis College,51600,93200,11
+New York,bachelors,College of Mount Saint Vincent,51700,92900,4
+New York,bachelors,Mount Saint Mary College,52800,92400,11
+New York,bachelors,Alfred University,50700,92000,19
+New York,bachelors,Le Moyne College,50900,91700,18
+New York,bachelors,SUNY Polytechnic Institute,51300,90800,35
+New York,bachelors,SUNY College at Old Westbury,49500,90700,8
+New York,bachelors,Bard College,51300,90600,0
+New York,bachelors,Canisius College,48300,90000,13
+New York,bachelors,SUNY College of Technology at Alfred,51400,90000,5
+New York,bachelors,SUNY at Purchase College,49700,89700,5
+New York,bachelors,St. Thomas Aquinas College,49600,89600,10
+New York,bachelors,The King's College,50400,89500,0
+New York,bachelors,Dominican College of Blauvelt,49900,89400,4
+New York,bachelors,St Bonaventure University,47800,88900,8
+New York,bachelors,New York School of Interior Design,49200,88300,0
+New York,bachelors,SUNY Oneonta,47000,88000,13
+New York,bachelors,St. Joseph's College-New York,47400,86900,5
+New York,bachelors,CUNY York College,48200,86800,10
+New York,bachelors,Saint John Fisher College,47500,86700,9
+New York,bachelors,Marymount Manhattan College,50900,86300,2
+New York,bachelors,D'Youville College,49900,86200,5
+New York,bachelors,Utica College,47600,86000,3
+New York,bachelors,Concordia College-New York,48400,85900,4
+New York,bachelors,SUNY Cortland,45600,85600,5
+New York,bachelors,State University of New York at New Paltz,47300,85200,13
+New York,bachelors,SUNY College at Potsdam,44800,84900,19
+New York,bachelors,CUNY John Jay College of Criminal Justice,46400,84800,2
+New York,bachelors,SUNY College at Plattsburgh,46100,84600,11
+New York,bachelors,Daemen College,46200,84500,1
+New York,bachelors,Mercy College,46700,84400,3
+New York,bachelors,SUNY College at Oswego,46200,83700,12
+New York,bachelors,CUNY Lehman College,47600,83500,8
+New York,bachelors,Niagara University,43900,83400,5
+New York,bachelors,SUNY College of Technology at Delhi,45900,82800,1
+New York,bachelors,The College of Saint Rose,45100,82600,8
+New York,bachelors,SUNY Empire State College,46700,82400,6
+New York,bachelors,Elmira College,46200,82200,11
+New York,bachelors,The Sage Colleges,44300,81100,7
+New York,bachelors,SUNY at Fredonia,43800,81100,10
+New York,bachelors,Roberts Wesleyan College,46300,80800,3
+New York,bachelors,Nyack College,46300,79900,1
+New York,bachelors,Wells College,44900,78800,28
+New York,bachelors,SUNY College of Technology at Canton,43400,78300,3
+New York,bachelors,CUNY Medgar Evers College,44800,78100,34
+New York,bachelors,Houghton College,43900,77900,15
+New York,bachelors,Keuka College,43800,77400,1
+New York,bachelors,Nazareth College,42800,77200,5
+New York,bachelors,The College of New Rochelle,43900,76500,1
+New York,bachelors,SUNY Buffalo State,42400,76000,7
+New York,bachelors,SUNY College at Brockport,45500,74300,7
+New York,bachelors,Metropolitan College of New York,41700,73700,0
+New York,bachelors,Culinary Institute of America,41300,73600,0
+New York,bachelors,SUNY College of Agriculture and Technology at Cobleskill,40600,73500,6
+New York,bachelors,Medaille College,41200,71400,4
+New York,bachelors,Cazenovia College,38800,69800,5
+New York,bachelors,Hilbert College,39000,69100,4
+New York,associates,Helene Fuld College of Nursing,69400,90600,0
+New York,associates,Phillips School of Nursing at Mount Sinai Beth Israel,61000,82800,0
+New York,associates,Belanger School of Nursing,56800,79600,0
+New York,associates,New York University,56000,77400,18
+New York,associates,Pace University-New York,50500,77100,14
+New York,associates,St John's University-New York,47700,76500,7
+New York,associates,Fashion Institute of Technology,45300,76400,0
+New York,associates,The New School,52000,76000,6
+New York,associates,College of Staten Island CUNY,53900,75600,11
+New York,associates,Vaughn College of Aeronautics and Technology,50000,75100,4
+New York,associates,Excelsior College,59000,74800,1
+New York,associates,CUNY New York City College of Technology,47300,73100,19
+New York,associates,St Joseph's College of Nursing at St Joseph's Hospital Health Center,51700,72900,0
+New York,associates,Pomeroy College of Nursing at Crouse Hospital,52800,71600,0
+New York,associates,Farmingdale State College,49300,71600,9
+New York,associates,New York Institute of Technology,50000,71500,35
+New York,associates,Memorial College of Nursing,51000,70600,0
+New York,associates,Samaritan Hospital School of Nursing,48300,70300,0
+New York,associates,SUNY Westchester Community College,43500,70200,7
+New York,associates,SUNY Empire State College,44400,70000,6
+New York,associates,Rockland Community College,45900,70000,5
+New York,associates,University at Buffalo,45600,69700,33
+New York,associates,Orange County Community College,45300,69200,7
+New York,associates,Nassau Community College,43300,69100,3
+New York,associates,CUNY Queensborough Community College,44100,69000,7
+New York,associates,Mercy College,47000,67800,3
+New York,associates,CUNY Kingsborough Community College,41700,67500,10
+New York,associates,LIU Post,45000,67200,8
+New York,associates,CUNY John Jay College of Criminal Justice,43800,66200,2
+New York,associates,Pratt Institute-Main,45700,66100,0
+New York,associates,Syracuse University,46400,66000,27
+New York,associates,Hudson Valley Community College,44100,65900,11
+New York,associates,Culinary Institute of America,41400,65800,0
+New York,associates,Suffolk County Community College,43900,65700,4
+New York,associates,St. Thomas Aquinas College,43000,64800,10
+New York,associates,CUNY LaGuardia Community College,43000,64600,14
+New York,associates,CUNY Borough of Manhattan Community College,42400,63300,12
+New York,associates,Trocaire College,43900,63200,0
+New York,associates,Adelphi University,41000,63100,6
+New York,associates,CUNY Hostos Community College,43700,62900,6
+New York,associates,Dutchess Community College,42900,62800,6
+New York,associates,SUNY College of Technology at Alfred,41400,62500,5
+New York,associates,Ulster County Community College,39500,62400,6
+New York,associates,Maria College of Albany,45800,62400,0
+New York,associates,LIU Brooklyn,44300,62300,9
+New York,associates,Rochester Institute of Technology,43100,62200,50
+New York,associates,Sullivan County Community College,44200,61400,5
+New York,associates,Touro College,42600,61300,6
+New York,associates,SUNY College of Agriculture and Technology at Cobleskill,42000,61300,6
+New York,associates,SUNY College of Technology at Delhi,40600,60900,1
+New York,associates,CUNY Medgar Evers College,40800,60500,34
+New York,associates,Jamestown Community College,38800,60300,4
+New York,associates,The Sage Colleges,41900,60300,7
+New York,associates,Paul Smiths College of Arts and Science,38900,60100,2
+New York,associates,Mohawk Valley Community College,39600,59900,6
+New York,associates,CUNY Bronx Community College,40600,59800,6
+New York,associates,SUNY College of Technology at Canton,41200,59700,3
+New York,associates,Columbia-Greene Community College,42000,59400,3
+New York,associates,Adirondack Community College,42200,59300,5
+New York,associates,Corning Community College,38700,59300,5
+New York,associates,Jefferson Community College,39300,59300,2
+New York,associates,Morrisville State College,39100,59100,5
+New York,associates,Onondaga Community College,37100,59100,6
+New York,associates,Tompkins Cortland Community College,40400,59000,6
+New York,associates,Clinton Community College,39100,58800,5
+New York,associates,Niagara County Community College,38400,58800,6
+New York,associates,North Country Community College,40400,58700,2
+New York,associates,SUNY Broome Community College,40300,58600,7
+New York,associates,Schenectady County Community College,38600,58600,9
+New York,associates,Finger Lakes Community College,38700,58400,3
+New York,associates,Monroe Community College,39200,58300,6
+New York,associates,Erie Community College,39800,57300,5
+New York,associates,Fulton-Montgomery Community College,39300,57200,4
+New York,associates,Genesee Community College,38600,57200,2
+New York,associates,Villa Maria College,37600,56100,0
+New York,associates,Hilbert College,39700,55800,4
+New York,associates,Boricua College,36300,55500,0
+New York,associates,Cayuga County Community College,37100,54000,3
+New York,associates,Cazenovia College,35300,53900,5
+New York,associates,Herkimer County Community College,36200,51300,4
+New York,associates,Medaille College,30800,46600,4
+North Carolina,bachelors,Duke University,71100,132100,26
+North Carolina,bachelors,Wake Forest University,60700,114800,13
+North Carolina,bachelors,Davidson College,57300,106900,28
+North Carolina,bachelors,North Carolina State University at Raleigh,57300,106500,47
+North Carolina,bachelors,University of North Carolina at Chapel Hill,55000,100800,19
+North Carolina,bachelors,Elon University,53600,93700,7
+North Carolina,bachelors,North Carolina A & T State University,52600,93400,25
+North Carolina,bachelors,University of North Carolina at Charlotte,52500,92600,25
+North Carolina,bachelors,Queens University of Charlotte,49400,86600,9
+North Carolina,bachelors,Lenoir-Rhyne University,46400,86300,7
+North Carolina,bachelors,East Carolina University,48400,85400,11
+North Carolina,bachelors,High Point University,48600,84300,8
+North Carolina,bachelors,Johnson C Smith University,45700,83300,16
+North Carolina,bachelors,Belmont Abbey College,46700,82900,7
+North Carolina,bachelors,Appalachian State University,46600,82700,9
+North Carolina,bachelors,Campbell University,46300,82400,8
+North Carolina,bachelors,University of North Carolina School of the Arts,46400,82400,0
+North Carolina,bachelors,John Wesley University,45100,82100,0
+North Carolina,bachelors,University of North Carolina Wilmington,46400,80500,14
+North Carolina,bachelors,Methodist University,45800,80500,9
+North Carolina,bachelors,North Carolina Wesleyan College,45300,78800,8
+North Carolina,bachelors,Catawba College,42500,78100,11
+North Carolina,bachelors,Pfeiffer University,44200,78000,4
+North Carolina,bachelors,Barton College,42400,77900,6
+North Carolina,bachelors,Western Carolina University,44700,77700,8
+North Carolina,bachelors,Greensboro College,44300,77600,5
+North Carolina,bachelors,Winston-Salem State University,45600,77300,6
+North Carolina,bachelors,Wingate University,41900,77200,5
+North Carolina,bachelors,Meredith College,43600,77100,12
+North Carolina,bachelors,University of North Carolina at Greensboro,43900,76600,11
+North Carolina,bachelors,Montreat College,43200,76400,4
+North Carolina,bachelors,University of North Carolina at Asheville,43900,76100,21
+North Carolina,bachelors,Bennett College,42100,75700,30
+North Carolina,bachelors,Guilford College,42100,75600,17
+North Carolina,bachelors,North Carolina Central University,43500,75500,10
+North Carolina,bachelors,Warren Wilson College,40100,74600,12
+North Carolina,bachelors,Chowan University,41600,74000,5
+North Carolina,bachelors,Salem College,39100,73700,14
+North Carolina,bachelors,Johnson & Wales University-Charlotte,40600,73200,0
+North Carolina,bachelors,University of North Carolina at Pembroke,40000,72600,14
+North Carolina,bachelors,St. Andrews University,39200,71800,11
+North Carolina,bachelors,Gardner-Webb University,39500,70400,5
+North Carolina,bachelors,Mars Hill University,39500,70000,16
+North Carolina,bachelors,Elizabeth City State University,40100,69500,19
+North Carolina,bachelors,Lees-McRae College,38100,69200,14
+North Carolina,bachelors,University of Mount Olive,40200,68900,2
+North Carolina,bachelors,Fayetteville State University,38400,67800,8
+North Carolina,bachelors,Saint Augustine's University,38300,67500,7
+North Carolina,bachelors,Livingstone College,35600,64100,12
+North Carolina,bachelors,Shaw University,35600,62400,4
+North Carolina,associates,Campbell University,48000,69600,8
+North Carolina,associates,Cabarrus College of Health Sciences,48900,69400,0
+North Carolina,associates,North Carolina State University at Raleigh,43100,64100,47
+North Carolina,associates,Louisburg College,41500,61600,11
+North Carolina,associates,Montreat College,41500,61500,4
+North Carolina,associates,Wake Technical Community College,41100,60600,8
+North Carolina,associates,Central Piedmont Community College,39600,60600,6
+North Carolina,associates,Durham Technical Community College,40200,59500,10
+North Carolina,associates,Caldwell Community College and Technical Institute,39700,58800,3
+North Carolina,associates,Roanoke-Chowan Community College,39800,58700,8
+North Carolina,associates,Pitt Community College,38700,58500,3
+North Carolina,associates,Forsyth Technical Community College,40000,58300,5
+North Carolina,associates,Southeastern Community College (North Carolina),38900,58200,6
+North Carolina,associates,Piedmont Community College,38800,58100,2
+North Carolina,associates,Sampson Community College,38000,58000,8
+North Carolina,associates,Mayland Community College,38600,58000,0
+North Carolina,associates,Stanly Community College,39700,57400,3
+North Carolina,associates,Asheville-Buncombe Technical Community College,38600,57400,6
+North Carolina,associates,Cape Fear Community College,38900,57400,6
+North Carolina,associates,Robeson Community College,38000,57200,5
+North Carolina,associates,Nash Community College,38900,57200,6
+North Carolina,associates,Wayne Community College,39100,57000,9
+North Carolina,associates,Johnston Community College,37900,57000,2
+North Carolina,associates,Coastal Carolina Community College,37000,57000,1
+North Carolina,associates,Fayetteville Technical Community College,38000,56800,9
+North Carolina,associates,Randolph Community College,36300,56700,1
+North Carolina,associates,Catawba Valley Community College,37300,56700,4
+North Carolina,associates,Mitchell Community College,39400,56400,13
+North Carolina,associates,Isothermal Community College,37200,56200,2
+North Carolina,associates,Johnson & Wales University-Charlotte,35800,56200,0
+North Carolina,associates,Rockingham Community College,38700,56000,3
+North Carolina,associates,Guilford Technical Community College,37900,56000,9
+North Carolina,associates,Brunswick Community College,36700,55700,5
+North Carolina,associates,Southwestern Community College (North Carolina),37600,55500,3
+North Carolina,associates,Craven Community College,37200,54900,8
+North Carolina,associates,Surry Community College,36800,54700,3
+North Carolina,associates,James Sprunt Community College,35500,54700,10
+North Carolina,associates,Richmond Community College,37200,54600,4
+North Carolina,associates,University of Mount Olive,37100,54600,2
+North Carolina,associates,Edgecombe Community College,38100,54500,1
+North Carolina,associates,Davidson County Community College,38400,54100,7
+North Carolina,associates,Tri-County Community College,35000,54000,7
+North Carolina,associates,Alamance Community College,36000,54000,6
+North Carolina,associates,Sandhills Community College,37000,53900,6
+North Carolina,associates,Beaufort County Community College,36300,53300,3
+North Carolina,associates,Western Piedmont Community College,36000,53200,1
+North Carolina,associates,Halifax Community College,34800,53200,2
+North Carolina,associates,Martin Community College,35500,53100,1
+North Carolina,associates,Wilson Community College,36100,53000,2
+North Carolina,associates,Central Carolina Community College,37300,53000,4
+North Carolina,associates,Chowan University,36900,52800,5
+North Carolina,associates,Lenoir Community College,32900,52600,2
+North Carolina,associates,South Piedmont Community College,35900,52400,7
+North Carolina,associates,Blue Ridge Community College (North Carolina),36300,52300,3
+North Carolina,associates,Carteret Community College,34100,52300,7
+North Carolina,associates,Vance-Granville Community College,35600,52100,5
+North Carolina,associates,College of the Albemarle,34600,52000,5
+North Carolina,associates,Gaston College,35400,51900,5
+North Carolina,associates,Rowan-Cabarrus Community College,36000,51700,5
+North Carolina,associates,Cleveland Community College,36200,51600,12
+North Carolina,associates,Wilkes Community College,34200,51000,4
+North Carolina,associates,McDowell Technical Community College,33600,50300,4
+North Carolina,associates,Haywood Community College,34900,50200,1
+North Carolina,associates,Bladen Community College,30800,47400,13
+North Dakota,bachelors,North Dakota State University-Main Campus,54200,98600,27
+North Dakota,bachelors,University of North Dakota,53800,96000,16
+North Dakota,bachelors,University of Jamestown,47600,85400,11
+North Dakota,bachelors,Mayville State University,43700,81300,10
+North Dakota,bachelors,Dickinson State University,46400,81200,8
+North Dakota,bachelors,University of Mary,46400,79100,3
+North Dakota,bachelors,Minot State University,44500,74100,7
+North Dakota,bachelors,Valley City State University,39900,68600,3
+North Dakota,bachelors,Trinity Bible College and Graduate School,34100,61300,0
+North Dakota,associates,Bismarck State College,45800,67100,1
+North Dakota,associates,North Dakota State College of Science,42300,62600,1
+North Dakota,associates,Williston State College,42600,59500,1
+North Dakota,associates,Minot State University,38900,58400,7
+North Dakota,associates,Lake Region State College,38800,56800,0
+North Dakota,associates,Dickinson State University,37300,56500,8
+Ohio,bachelors,Case Western Reserve University,66600,117800,37
+Ohio,bachelors,Miami University-Oxford,57200,107300,22
+Ohio,bachelors,Wittenberg University,52400,105400,22
+Ohio,bachelors,University of Dayton,57400,105000,33
+Ohio,bachelors,Denison University,54400,104800,22
+Ohio,bachelors,Ohio Northern University,54400,103900,22
+Ohio,bachelors,Kenyon College,55000,103800,17
+Ohio,bachelors,Mount Carmel College of Nursing,56600,99700,0
+Ohio,bachelors,Ohio Wesleyan University,51300,99200,21
+Ohio,bachelors,Ohio State University-Main Campus,55300,98600,27
+Ohio,bachelors,John Carroll University,51600,97300,16
+Ohio,bachelors,University of Cincinnati-Main Campus,53600,97300,19
+Ohio,bachelors,Oberlin College,53100,96800,21
+Ohio,bachelors,Kettering College,54300,95800,0
+Ohio,bachelors,Marietta College,51200,94300,45
+Ohio,bachelors,Xavier University,51800,94000,7
+Ohio,bachelors,Ohio University-Main Campus,51400,93300,9
+Ohio,bachelors,University of Toledo,51800,92500,21
+Ohio,bachelors,The College of Wooster,49200,91300,32
+Ohio,bachelors,University of Akron Main Campus,50700,89200,22
+Ohio,bachelors,Cleveland State University,48300,88600,20
+Ohio,bachelors,University of Mount Union,48300,88500,19
+Ohio,bachelors,The University of Findlay,49100,87900,3
+Ohio,bachelors,Wright State University-Main Campus,50300,87800,31
+Ohio,bachelors,Bowling Green State University-Main Campus,47200,87500,11
+Ohio,bachelors,Cedarville University,52400,87300,18
+Ohio,bachelors,Franciscan University of Steubenville,47700,86200,8
+Ohio,bachelors,Otterbein University,47900,85600,6
+Ohio,bachelors,Youngstown State University,47800,85600,20
+Ohio,bachelors,Walsh University,47800,85500,10
+Ohio,bachelors,Capital University,47000,85100,8
+Ohio,bachelors,Hiram College,45900,84100,14
+Ohio,bachelors,Kent State University at Kent,45600,83100,17
+Ohio,bachelors,Cleveland Institute of Art,46100,83000,0
+Ohio,bachelors,Baldwin Wallace University,46400,82800,15
+Ohio,bachelors,Franklin University,46800,82700,6
+Ohio,bachelors,Ohio State University-Mansfield Campus,44300,82400,0
+Ohio,bachelors,Heidelberg University,46000,82300,9
+Ohio,bachelors,Shawnee State University,45100,80600,4
+Ohio,bachelors,Muskingum University,44300,80500,10
+Ohio,bachelors,Lake Erie College,41800,80300,16
+Ohio,bachelors,Mount Saint Joseph University,44700,80000,4
+Ohio,bachelors,Ashland University,43800,80000,5
+Ohio,bachelors,Ohio Dominican University,45100,79500,5
+Ohio,bachelors,Ursuline College,46000,79100,3
+Ohio,bachelors,Defiance College,42000,79100,7
+Ohio,bachelors,Columbus College of Art and Design,44100,79100,0
+Ohio,bachelors,Antioch University-Midwest,43000,79100,0
+Ohio,bachelors,Mount Vernon Nazarene University,43700,78600,7
+Ohio,bachelors,Tiffin University,44300,78500,1
+Ohio,bachelors,Malone University,42800,77400,6
+Ohio,bachelors,Urbana University,43800,77000,1
+Ohio,bachelors,Wilmington College,42800,77000,4
+Ohio,bachelors,Lourdes University,44600,75900,4
+Ohio,bachelors,Union Institute & University,42100,74900,0
+Ohio,bachelors,Notre Dame College,41500,74100,5
+Ohio,bachelors,Bluffton University,41300,74100,7
+Ohio,bachelors,Wilberforce University,42100,73200,8
+Ohio,bachelors,University of Northwestern Ohio,40300,72700,1
+Ohio,bachelors,University of Rio Grande,40400,72100,8
+Ohio,bachelors,Cincinnati College of Mortuary Science,39100,71600,0
+Ohio,bachelors,Ohio State University-Lima Campus,39400,71500,0
+Ohio,bachelors,Central State University,40500,71200,16
+Ohio,bachelors,Art Academy of Cincinnati,38800,70900,0
+Ohio,bachelors,Cincinnati Christian University,38100,67600,0
+Ohio,bachelors,Ohio Christian University,37300,66200,0
+Ohio,associates,Kettering College,55100,77300,0
+Ohio,associates,Walsh University,51000,73000,10
+Ohio,associates,Good Samaritan College of Nursing and Health Science,51300,71900,0
+Ohio,associates,Xavier University,48900,71700,7
+Ohio,associates,Mercy College of Ohio,49000,67900,1
+Ohio,associates,Franklin University,44600,65900,6
+Ohio,associates,Cincinnati State Technical and Community College,43300,65700,6
+Ohio,associates,Kent State University at East Liverpool,45500,65400,2
+Ohio,associates,University of Cincinnati-Blue Ash College,45600,65300,10
+Ohio,associates,Ohio State University-Mansfield Campus,43200,65200,0
+Ohio,associates,University of Cincinnati-Main Campus,42500,65100,19
+Ohio,associates,Ohio University-Main Campus,45800,64600,9
+Ohio,associates,Ashland University,43300,64200,5
+Ohio,associates,Ohio Dominican University,42900,64100,5
+Ohio,associates,Ohio University-Zanesville Campus,43800,63800,0
+Ohio,associates,The University of Findlay,44100,63200,3
+Ohio,associates,Miami University-Oxford,44900,63200,22
+Ohio,associates,Ohio State University-Newark Campus,42000,63200,0
+Ohio,associates,University of Toledo,44500,63100,21
+Ohio,associates,Central Ohio Technical College,42800,62700,6
+Ohio,associates,Shawnee State University,48100,62700,4
+Ohio,associates,Miami University-Middletown,43400,62100,6
+Ohio,associates,Ohio State University-Main Campus,41600,61100,27
+Ohio,associates,Lourdes University,41500,61000,4
+Ohio,associates,Lakeland Community College,43000,61000,6
+Ohio,associates,Kent State University at Ashtabula,44200,60800,4
+Ohio,associates,Columbus State Community College,40800,60600,3
+Ohio,associates,Kent State University at Tuscarawas,39700,60500,2
+Ohio,associates,University of Cincinnati-Clermont College,41500,60400,4
+Ohio,associates,Sinclair Community College,41100,60300,8
+Ohio,associates,Marion Technical College,44200,59900,7
+Ohio,associates,Hocking College,41200,59800,2
+Ohio,associates,James A Rhodes State College,43100,59500,5
+Ohio,associates,Urbana University,39900,59500,1
+Ohio,associates,Owens Community College,40000,59500,2
+Ohio,associates,Clark State Community College,39200,59400,2
+Ohio,associates,Lorain County Community College,42100,59400,4
+Ohio,associates,University of Akron Main Campus,37900,59300,22
+Ohio,associates,University of Rio Grande,42600,59200,8
+Ohio,associates,North Central State College,39800,57900,13
+Ohio,associates,Zane State College,38700,57900,10
+Ohio,associates,Cuyahoga Community College District,41200,57700,3
+Ohio,associates,Stark State College,40500,57600,8
+Ohio,associates,Youngstown State University,39000,57400,20
+Ohio,associates,Ohio State University Agricultural Technical Institute,37200,57300,9
+Ohio,associates,Bowling Green State University-Firelands,39500,57200,0
+Ohio,associates,Edison State Community College,41200,57100,9
+Ohio,associates,Kent State University at Salem,38100,56900,3
+Ohio,associates,Ohio University-Southern Campus,38300,56800,0
+Ohio,associates,Ohio University-Chillicothe Campus,39500,56500,0
+Ohio,associates,Kent State University at Trumbull,36500,56300,7
+Ohio,associates,University of Northwestern Ohio,37600,56100,1
+Ohio,associates,Terra State Community College,37900,55500,9
+Ohio,associates,Eastern Gateway Community College,36600,55200,5
+Ohio,associates,Northwest State Community College,39800,55100,5
+Ohio,associates,Southern State Community College,36200,53000,4
+Ohio,associates,Miami University-Hamilton,34100,52900,5
+Ohio,associates,University of Akron Wayne College,33800,52200,0
+Ohio,associates,Belmont College,37100,51900,7
+Ohio,associates,Wright State University-Lake Campus,33500,51300,16
+Ohio,associates,Tiffin University,33800,50800,1
+Ohio,associates,Washington State Community College,35300,50500,6
+Ohio,associates,Kent State University at Stark,32000,49200,0
+Ohio,associates,Ohio Christian University,33100,48100,0
+Oklahoma,bachelors,University of Tulsa,58700,107200,36
+Oklahoma,bachelors,University of Oklahoma-Health Sciences Center,57100,102100,3
+Oklahoma,bachelors,University of Oklahoma-Norman Campus,54400,100600,23
+Oklahoma,bachelors,Oklahoma State University-Main Campus,52800,98600,25
+Oklahoma,bachelors,Oklahoma State University Institute of Technology,52600,92300,14
+Oklahoma,bachelors,Southwestern Oklahoma State University,47900,90800,5
+Oklahoma,bachelors,Oklahoma City University,47700,87900,9
+Oklahoma,bachelors,Oklahoma Christian University,49700,87900,41
+Oklahoma,bachelors,Oral Roberts University,45900,85100,8
+Oklahoma,bachelors,University of Central Oklahoma,45300,82900,8
+Oklahoma,bachelors,Langston University,46500,81500,8
+Oklahoma,bachelors,Cameron University,43900,81500,14
+Oklahoma,bachelors,Southern Nazarene University,46100,81000,5
+Oklahoma,bachelors,Southeastern Oklahoma State University,45000,80500,15
+Oklahoma,bachelors,Oklahoma Wesleyan University,43300,78700,1
+Oklahoma,bachelors,Northeastern State University,44500,77600,7
+Oklahoma,bachelors,East Central University,44700,77500,9
+Oklahoma,bachelors,Northwestern Oklahoma State University,42200,76800,11
+Oklahoma,bachelors,Oklahoma Baptist University,43900,76600,8
+Oklahoma,bachelors,Oklahoma Panhandle State University,42300,74400,10
+Oklahoma,bachelors,Mid-America Christian University,40700,74100,0
+Oklahoma,bachelors,Rogers State University,41400,73800,11
+Oklahoma,bachelors,University of Science and Arts of Oklahoma,37300,67400,11
+Oklahoma,associates,Bacone College,45100,66700,0
+Oklahoma,associates,Oklahoma State University Institute of Technology,42100,64300,14
+Oklahoma,associates,Oklahoma State University-Oklahoma City,38700,63600,6
+Oklahoma,associates,Rogers State University,42300,63400,11
+Oklahoma,associates,Oklahoma City Community College,41800,61700,14
+Oklahoma,associates,Rose State College,41100,61200,3
+Oklahoma,associates,Murray State College,40800,60300,5
+Oklahoma,associates,Oklahoma Wesleyan University,40000,59900,1
+Oklahoma,associates,Tulsa Community College,39600,58600,15
+Oklahoma,associates,Cameron University,37200,58500,14
+Oklahoma,associates,Connors State College,40200,58500,7
+Oklahoma,associates,Northern Oklahoma College,39700,58200,9
+Oklahoma,associates,Western Oklahoma State College,40700,58100,2
+Oklahoma,associates,Redlands Community College,39900,58100,0
+Oklahoma,associates,University of Central Oklahoma,38200,57700,8
+Oklahoma,associates,Northeastern Oklahoma A&M College,38700,57300,6
+Oklahoma,associates,Seminole State College,37200,56800,21
+Oklahoma,associates,Carl Albert State College,39100,56600,2
+Oklahoma,associates,Eastern Oklahoma State College,36700,56400,4
+Oklahoma,associates,Southwestern Oklahoma State University,39500,55600,5
+Oregon,bachelors,Oregon Health & Science University,65400,108300,10
+Oregon,bachelors,Oregon Institute of Technology,61200,106800,27
+Oregon,bachelors,University of Portland,58500,104900,28
+Oregon,bachelors,Reed College,56100,104900,26
+Oregon,bachelors,Oregon State University,56200,104800,34
+Oregon,bachelors,Willamette University,52200,97700,14
+Oregon,bachelors,University of Oregon,51800,95800,13
+Oregon,bachelors,Pacific University,50200,94000,8
+Oregon,bachelors,Linfield College-Online and Continuing Education,50900,94000,0
+Oregon,bachelors,Lewis & Clark College,50000,93200,12
+Oregon,bachelors,Linfield College-McMinnville Campus,52100,92000,17
+Oregon,bachelors,Portland State University,50800,90500,16
+Oregon,bachelors,George Fox University,51200,89600,8
+Oregon,bachelors,Concordia University-Portland,48000,86100,1
+Oregon,bachelors,Pacific Northwest College of Art,46300,85000,0
+Oregon,bachelors,Southern Oregon University,46000,81200,6
+Oregon,bachelors,Northwest Christian University,45200,81100,5
+Oregon,bachelors,Warner Pacific College,45500,80500,10
+Oregon,bachelors,Marylhurst University,46200,79800,0
+Oregon,bachelors,Western Oregon University,44500,79300,5
+Oregon,bachelors,Corban University,42500,77300,1
+Oregon,bachelors,Multnomah University,40500,76400,0
+Oregon,bachelors,Eastern Oregon University,44000,73900,5
+Oregon,bachelors,New Hope Christian College-Eugene,34200,61600,0
+Oregon,associates,Oregon Institute of Technology,44400,67000,27
+Oregon,associates,Linn-Benton Community College,41900,64000,4
+Oregon,associates,Portland Community College,43000,62800,8
+Oregon,associates,Clatsop Community College,42600,62000,0
+Oregon,associates,Lane Community College,40500,61700,6
+Oregon,associates,Mt Hood Community College,41800,61300,11
+Oregon,associates,Clackamas Community College,39600,60700,5
+Oregon,associates,Chemeketa Community College,39000,59700,5
+Oregon,associates,Central Oregon Community College,41300,59300,2
+Oregon,associates,Blue Mountain Community College,37900,58800,1
+Oregon,associates,Rogue Community College,39100,58700,1
+Oregon,associates,Umpqua Community College,38100,57500,0
+Oregon,associates,Treasure Valley Community College,37000,57000,2
+Oregon,associates,Southwestern Oregon Community College,37900,55200,3
+Pennsylvania,bachelors,Carnegie Mellon University,75900,136100,66
+Pennsylvania,bachelors,Lehigh University,69500,134100,52
+Pennsylvania,bachelors,University of Pennsylvania,72800,133900,21
+Pennsylvania,bachelors,Swarthmore College,67500,123200,45
+Pennsylvania,bachelors,Bucknell University,66700,122900,40
+Pennsylvania,bachelors,Lafayette College,66500,122500,47
+Pennsylvania,bachelors,Villanova University,65100,119500,23
+Pennsylvania,bachelors,University of the Sciences,60700,115200,12
+Pennsylvania,bachelors,Drexel University,61700,114800,28
+Pennsylvania,bachelors,Haverford College,59300,112300,36
+Pennsylvania,bachelors,Franklin and Marshall College,57200,109700,23
+Pennsylvania,bachelors,Gettysburg College,58400,109300,24
+Pennsylvania,bachelors,Pennsylvania State University-Main Campus,58500,105500,37
+Pennsylvania,bachelors,Saint Joseph's University,57300,105100,6
+Pennsylvania,bachelors,La Salle University,55800,104800,5
+Pennsylvania,bachelors,Thomas Jefferson University,63400,102500,7
+Pennsylvania,bachelors,Muhlenberg College,53400,101900,20
+Pennsylvania,bachelors,Ursinus College,54400,101800,40
+Pennsylvania,bachelors,Pennsylvania State University-Penn State Harrisburg,55000,100400,31
+Pennsylvania,bachelors,University of Pittsburgh-Pittsburgh Campus,55900,100400,27
+Pennsylvania,bachelors,Dickinson College,55800,100100,25
+Pennsylvania,bachelors,Widener University,55700,100100,13
+Pennsylvania,bachelors,University of Scranton,56400,99700,12
+Pennsylvania,bachelors,Grove City College,54400,98400,29
+Pennsylvania,bachelors,Pennsylvania State University-Penn State Erie-Behrend College,58800,97900,32
+Pennsylvania,bachelors,Duquesne University,52600,96100,10
+Pennsylvania,bachelors,Pennsylvania State University-Penn State Brandywine,54200,95900,12
+Pennsylvania,bachelors,Temple University,52000,95900,13
+Pennsylvania,bachelors,Moravian College,52000,95300,13
+Pennsylvania,bachelors,Bryn Mawr College,54100,95300,19
+Pennsylvania,bachelors,Susquehanna University,51300,94700,20
+Pennsylvania,bachelors,Allegheny College,50200,93500,37
+Pennsylvania,bachelors,Juniata College,51500,93100,29
+Pennsylvania,bachelors,Lebanon Valley College,49600,93100,12
+Pennsylvania,bachelors,Messiah College,51400,93100,15
+Pennsylvania,bachelors,Pennsylvania State University-Penn State York,51900,93000,25
+Pennsylvania,bachelors,Jefferson (Philadelphia University + Thomas Jefferson University),49400,92800,6
+Pennsylvania,bachelors,Wilkes University,50800,92700,10
+Pennsylvania,bachelors,Bloomsburg University of Pennsylvania,49200,92200,9
+Pennsylvania,bachelors,West Chester University of Pennsylvania,49500,92200,10
+Pennsylvania,bachelors,Washington & Jefferson College,49800,92100,21
+Pennsylvania,bachelors,Shippensburg University of Pennsylvania,49200,91300,11
+Pennsylvania,bachelors,Holy Family University,51000,91100,3
+Pennsylvania,bachelors,Lycoming College,48200,91000,21
+Pennsylvania,bachelors,Gannon University,50900,90800,29
+Pennsylvania,bachelors,University of Pittsburgh-Johnstown,49600,90400,20
+Pennsylvania,bachelors,York College of Pennsylvania,51200,90400,14
+Pennsylvania,bachelors,Gwynedd Mercy University,51500,90100,1
+Pennsylvania,bachelors,Neumann University,50200,89900,4
+Pennsylvania,bachelors,Elizabethtown College,49700,89700,27
+Pennsylvania,bachelors,Pennsylvania State University-Penn State Berks,49800,89600,39
+Pennsylvania,bachelors,Pennsylvania College of Technology,51400,88400,5
+Pennsylvania,bachelors,Saint Vincent College,49700,88300,25
+Pennsylvania,bachelors,Robert Morris University,49400,88300,21
+Pennsylvania,bachelors,Immaculata University,49600,88100,3
+Pennsylvania,bachelors,DeSales University,49300,87700,9
+Pennsylvania,bachelors,Westminster College (Pennsylvania),47400,87700,17
+Pennsylvania,bachelors,Pennsylvania State University-Penn State Abington,49000,87200,13
+Pennsylvania,bachelors,Pennsylvania State University-Penn State Altoona,49600,86800,31
+Pennsylvania,bachelors,King's College,47700,86500,12
+Pennsylvania,bachelors,Saint Francis University,47400,86500,7
+Pennsylvania,bachelors,Indiana University of Pennsylvania-Main Campus,46500,85900,6
+Pennsylvania,bachelors,Cabrini University,48700,85200,4
+Pennsylvania,bachelors,Millersville University of Pennsylvania,47700,84700,14
+Pennsylvania,bachelors,Albright College,48500,84600,12
+Pennsylvania,bachelors,Waynesburg University,46100,83900,5
+Pennsylvania,bachelors,Rosemont College,46600,83800,5
+Pennsylvania,bachelors,Clarion University of Pennsylvania,44400,83600,7
+Pennsylvania,bachelors,Geneva College,46800,83300,18
+Pennsylvania,bachelors,The University of the Arts,46900,83300,0
+Pennsylvania,bachelors,Lincoln University (Pennsylvania),46500,82700,11
+Pennsylvania,bachelors,East Stroudsburg University of Pennsylvania,45800,82700,13
+Pennsylvania,bachelors,Slippery Rock University of Pennsylvania,45900,82400,8
+Pennsylvania,bachelors,Point Park University,44500,82200,1
+Pennsylvania,bachelors,Misericordia University,46500,81800,4
+Pennsylvania,bachelors,Arcadia University,45300,81500,12
+Pennsylvania,bachelors,Eastern University,44600,81200,3
+Pennsylvania,bachelors,California University of Pennsylvania,44400,81100,5
+Pennsylvania,bachelors,Kutztown University of Pennsylvania,45100,80500,8
+Pennsylvania,bachelors,Delaware Valley University,45400,80100,16
+Pennsylvania,bachelors,Cedar Crest College,46200,79200,5
+Pennsylvania,bachelors,Lock Haven University,42600,79000,9
+Pennsylvania,bachelors,Alvernia University,45000,78400,3
+Pennsylvania,bachelors,Mercyhurst University,44900,78200,10
+Pennsylvania,bachelors,Chatham University,42500,76600,11
+Pennsylvania,bachelors,Peirce College,43600,76100,10
+Pennsylvania,bachelors,Seton Hill University,42600,76000,8
+Pennsylvania,bachelors,Mansfield University of Pennsylvania,43000,75900,12
+Pennsylvania,bachelors,Edinboro University of Pennsylvania,42100,75600,6
+Pennsylvania,bachelors,Moore College of Art and Design,41200,75500,0
+Pennsylvania,bachelors,La Roche College,41900,75100,14
+Pennsylvania,bachelors,Thiel College,41400,75100,17
+Pennsylvania,bachelors,University of Pittsburgh-Greensburg,42900,75000,23
+Pennsylvania,bachelors,Carlow University,43000,74700,4
+Pennsylvania,bachelors,University of Pittsburgh-Bradford,40700,73200,17
+Pennsylvania,bachelors,Chestnut Hill College,41700,73100,5
+Pennsylvania,bachelors,Marywood University,41900,72800,3
+Pennsylvania,bachelors,Mount Aloysius College,41200,72600,7
+Pennsylvania,bachelors,Clarks Summit University,39000,69900,1
+Pennsylvania,bachelors,Lancaster Bible College,39500,69600,0
+Pennsylvania,bachelors,Keystone College,38000,67800,10
+Pennsylvania,bachelors,Wilson College,36300,66700,2
+Pennsylvania,bachelors,Cheyney University of Pennsylvania,37300,65200,10
+Pennsylvania,bachelors,University of Valley Forge,36400,65100,0
+Pennsylvania,associates,Villanova University,54500,76900,23
+Pennsylvania,associates,Drexel University,51900,75500,28
+Pennsylvania,associates,Pennsylvania College of Health Sciences,54300,75300,0
+Pennsylvania,associates,Pittsburgh Institute of Aeronautics,49100,73900,0
+Pennsylvania,associates,Pennsylvania State University-Penn State Wilkes-Barre,48900,72500,38
+Pennsylvania,associates,Pennsylvania State University-Penn State Berks,48700,72200,39
+Pennsylvania,associates,Pennsylvania State University-Penn State York,44700,70800,25
+Pennsylvania,associates,Pennsylvania State University-Main Campus,44900,70600,37
+Pennsylvania,associates,Gwynedd Mercy University,52900,70100,1
+Pennsylvania,associates,University of Pennsylvania,47900,69900,21
+Pennsylvania,associates,Pennsylvania State University-Penn State Abington,47600,69600,13
+Pennsylvania,associates,Pennsylvania State University-Penn State Mont Alto,47300,68300,10
+Pennsylvania,associates,Pennsylvania State University-Penn State Harrisburg,43800,68100,31
+Pennsylvania,associates,Alvernia University,47400,67200,3
+Pennsylvania,associates,Pennsylvania State University-Penn State Altoona,44500,67100,31
+Pennsylvania,associates,University of Pittsburgh-Bradford,48200,67000,17
+Pennsylvania,associates,Saint Francis University,46900,66900,7
+Pennsylvania,associates,Pittsburgh Technical College,41300,66500,12
+Pennsylvania,associates,Pennsylvania State University-Penn State Erie-Behrend College,42900,66000,32
+Pennsylvania,associates,Pennsylvania State University-Penn State Hazleton,46000,65500,8
+Pennsylvania,associates,University of Pittsburgh-Pittsburgh Campus,45000,65100,27
+Pennsylvania,associates,Thaddeus Stevens College of Technology,43300,65100,10
+Pennsylvania,associates,Jefferson (Philadelphia University + Thomas Jefferson University),45800,64800,6
+Pennsylvania,associates,Temple University,42100,64300,13
+Pennsylvania,associates,Delaware County Community College,42900,64200,6
+Pennsylvania,associates,Pennsylvania State University-Penn State New Kensington,43500,64200,18
+Pennsylvania,associates,California University of Pennsylvania,43000,62800,5
+Pennsylvania,associates,Lock Haven University,43400,62700,9
+Pennsylvania,associates,Pennsylvania College of Technology,42400,62700,5
+Pennsylvania,associates,University of Pittsburgh-Titusville,43700,62600,0
+Pennsylvania,associates,Montgomery County Community College,41800,62500,7
+Pennsylvania,associates,University of Pittsburgh-Johnstown,43000,62500,20
+Pennsylvania,associates,Bucks County Community College,41600,62300,9
+Pennsylvania,associates,Peirce College,43400,61700,10
+Pennsylvania,associates,Pennsylvania State University-Penn State DuBois,41500,61500,21
+Pennsylvania,associates,Harcum College,47200,61400,0
+Pennsylvania,associates,Pittsburgh Institute of Mortuary Science Inc,41800,61400,0
+Pennsylvania,associates,Pennsylvania State University-Penn State Shenango,42100,61100,2
+Pennsylvania,associates,Northampton County Area Community College,39200,61000,9
+Pennsylvania,associates,Rosedale Technical College,40500,61000,0
+Pennsylvania,associates,Point Park University,42400,60400,1
+Pennsylvania,associates,University of Scranton,40900,60100,12
+Pennsylvania,associates,Gannon University,41100,60000,29
+Pennsylvania,associates,Lehigh Carbon Community College,42000,59900,8
+Pennsylvania,associates,Johnson College,38200,59900,6
+Pennsylvania,associates,Harrisburg Area Community College,42100,59400,7
+Pennsylvania,associates,Clarion University of Pennsylvania,39900,59300,7
+Pennsylvania,associates,Community College of Allegheny County,41300,59100,7
+Pennsylvania,associates,Mansfield University of Pennsylvania,41200,58800,12
+Pennsylvania,associates,Community College of Philadelphia,39900,58000,10
+Pennsylvania,associates,Luzerne County Community College,39400,57300,5
+Pennsylvania,associates,Eastern University,36400,57100,3
+Pennsylvania,associates,Mount Aloysius College,41800,57100,7
+Pennsylvania,associates,Pennsylvania Institute of Technology,37800,57000,0
+Pennsylvania,associates,Community College of Beaver County,39600,56600,5
+Pennsylvania,associates,Reading Area Community College,39600,56500,4
+Pennsylvania,associates,York College of Pennsylvania,41200,55800,14
+Pennsylvania,associates,Westmoreland County Community College,38600,55800,6
+Pennsylvania,associates,Manor College,38200,55400,3
+Pennsylvania,associates,Edinboro University of Pennsylvania,36400,55200,6
+Pennsylvania,associates,Indiana University of Pennsylvania-Main Campus,36200,54900,6
+Pennsylvania,associates,Lackawanna College,38000,53700,0
+Pennsylvania,associates,Wilson College,35900,53100,2
+Pennsylvania,associates,Keystone College,37100,53000,10
+Pennsylvania,associates,Butler County Community College,37500,52800,6
+Rhode Island,bachelors,Brown University,68200,127600,43
+Rhode Island,bachelors,Bryant University,60500,108600,8
+Rhode Island,bachelors,Providence College,58900,106900,11
+Rhode Island,bachelors,Rhode Island School of Design,55500,100600,0
+Rhode Island,bachelors,University of Rhode Island,54500,99700,18
+Rhode Island,bachelors,Salve Regina University,53000,93900,6
+Rhode Island,bachelors,New England Institute of Technology,51700,93200,14
+Rhode Island,bachelors,Roger Williams University,52900,92700,12
+Rhode Island,bachelors,Rhode Island College,47200,83500,5
+Rhode Island,bachelors,Johnson & Wales University-Online,46200,81600,0
+Rhode Island,bachelors,Johnson & Wales University-Providence,46500,78900,5
+Rhode Island,associates,Roger Williams University,47900,68800,12
+Rhode Island,associates,New England Institute of Technology,44900,68200,14
+Rhode Island,associates,Providence College,47400,68000,11
+Rhode Island,associates,Community College of Rhode Island,45900,63700,3
+Rhode Island,associates,Johnson & Wales University-Providence,38900,57300,5
+South Carolina,bachelors,Citadel Military College of South Carolina,60400,108100,19
+South Carolina,bachelors,Clemson University,57500,106700,39
+South Carolina,bachelors,Furman,52100,98800,16
+South Carolina,bachelors,Wofford College,51300,96600,28
+South Carolina,bachelors,Medical University of South Carolina,54800,92700,6
+South Carolina,bachelors,University of South Carolina-Columbia,50300,89900,20
+South Carolina,bachelors,Presbyterian College,48800,89900,14
+South Carolina,bachelors,College of Charleston,47300,85100,20
+South Carolina,bachelors,University of South Carolina-Upstate,46000,81400,13
+South Carolina,bachelors,South Carolina State University,44500,80800,16
+South Carolina,bachelors,Winthrop University,44300,79700,9
+South Carolina,bachelors,Erskine College,43500,78000,28
+South Carolina,bachelors,Coastal Carolina University,44700,77600,14
+South Carolina,bachelors,Francis Marion University,42900,77600,18
+South Carolina,bachelors,Lander University,42600,77100,9
+South Carolina,bachelors,Limestone College,42100,76500,10
+South Carolina,bachelors,Charleston Southern University,42800,76300,9
+South Carolina,bachelors,University of South Carolina-Aiken,41600,75100,10
+South Carolina,bachelors,Newberry College,41200,74700,14
+South Carolina,bachelors,Southern Wesleyan University,42900,74600,5
+South Carolina,bachelors,Converse College,39000,71000,8
+South Carolina,bachelors,Anderson University (South Carolina),39900,70100,5
+South Carolina,bachelors,Columbia College (South Carolina),39200,68300,6
+South Carolina,bachelors,Benedict College,38100,67500,19
+South Carolina,bachelors,Columbia International University,36600,66200,0
+South Carolina,bachelors,Coker College,36900,65900,5
+South Carolina,bachelors,Voorhees College,35000,64100,21
+South Carolina,bachelors,Claflin University,36100,62100,16
+South Carolina,bachelors,Morris College,31500,56900,13
+South Carolina,associates,Greenville Technical College,43600,62300,3
+South Carolina,associates,Florence-Darlington Technical College,40300,61900,5
+South Carolina,associates,Aiken Technical College,42800,61400,6
+South Carolina,associates,University of South Carolina-Columbia,39200,59300,20
+South Carolina,associates,Midlands Technical College,40000,59300,4
+South Carolina,associates,Trident Technical College,40400,59000,9
+South Carolina,associates,University of South Carolina-Lancaster,39400,58700,0
+South Carolina,associates,Orangeburg Calhoun Technical College,40800,57200,7
+South Carolina,associates,York Technical College,39600,57000,4
+South Carolina,associates,Tri-County Technical College,39600,56700,1
+South Carolina,associates,Southern Wesleyan University,37900,56600,5
+South Carolina,associates,Limestone College,36700,56400,10
+South Carolina,associates,Technical College of the Lowcountry,40100,56200,2
+South Carolina,associates,Spartanburg Community College,38700,54900,4
+South Carolina,associates,Northeastern Technical College,36300,54700,0
+South Carolina,associates,Horry-Georgetown Technical College,38300,54200,3
+South Carolina,associates,Central Carolina Technical College,36600,53500,5
+South Carolina,associates,Piedmont Technical College,35300,52800,3
+South Carolina,associates,Spartanburg Methodist College,32400,50200,0
+South Carolina,associates,Denmark Technical College,31100,46600,8
+South Dakota,bachelors,South Dakota School of Mines and Technology,66500,118500,92
+South Dakota,bachelors,South Dakota State University,50500,91900,18
+South Dakota,bachelors,Augustana University,47900,88400,18
+South Dakota,bachelors,University of South Dakota,47500,87900,8
+South Dakota,bachelors,Dakota State University,48400,84300,53
+South Dakota,bachelors,University of Sioux Falls,44400,78200,6
+South Dakota,bachelors,Northern State University,42300,77700,7
+South Dakota,bachelors,Mount Marty College,41400,76500,5
+South Dakota,bachelors,Dakota Wesleyan University,41800,75700,10
+South Dakota,bachelors,Black Hills State University,40400,72600,11
+South Dakota,associates,University of South Dakota,51500,71100,8
+South Dakota,associates,Dakota Wesleyan University,47600,67200,10
+South Dakota,associates,Presentation College,42500,61900,6
+South Dakota,associates,Southeast Technical Institute,41000,60600,14
+South Dakota,associates,Mitchell Technical Institute,41900,60300,2
+South Dakota,associates,Lake Area Technical Institute,40300,60100,2
+South Dakota,associates,South Dakota State University,37600,57200,18
+South Dakota,associates,Black Hills State University,37900,56500,11
+South Dakota,associates,Dakota State University,38100,55500,53
+South Dakota,associates,Western Dakota Technical Institute,36000,54000,5
+Tennessee,bachelors,Vanderbilt University,65400,119100,23
+Tennessee,bachelors,Sewanee-The University of the South,53700,97800,17
+Tennessee,bachelors,Rhodes College,51900,97800,25
+Tennessee,bachelors,Christian Brothers University,51500,96500,14
+Tennessee,bachelors,Baptist Memorial College of Health Sciences,55700,95700,4
+Tennessee,bachelors,Tennessee Technological University,53100,95100,28
+Tennessee,bachelors,The University of Tennessee-Knoxville,51200,95100,21
+Tennessee,bachelors,University of Memphis,47200,85800,12
+Tennessee,bachelors,Lipscomb University,49000,84800,12
+Tennessee,bachelors,Southern Adventist University,47500,84000,9
+Tennessee,bachelors,Fisk University,45300,83600,39
+Tennessee,bachelors,Union University,46400,83000,6
+Tennessee,bachelors,The University of Tennessee-Chattanooga,46000,82300,17
+Tennessee,bachelors,Trevecca Nazarene University,45300,81700,5
+Tennessee,bachelors,Middle Tennessee State University,46500,81100,9
+Tennessee,bachelors,Cumberland University,45500,81000,3
+Tennessee,bachelors,Belmont University,47300,80900,3
+Tennessee,bachelors,The University of Tennessee-Martin,44400,78600,10
+Tennessee,bachelors,Tennessee State University,47200,78400,14
+Tennessee,bachelors,Freed-Hardeman University,43700,78200,9
+Tennessee,bachelors,Austin Peay State University,44200,78200,10
+Tennessee,bachelors,East Tennessee State University,43700,77300,8
+Tennessee,bachelors,Carson-Newman University,42700,76500,5
+Tennessee,bachelors,Maryville College,42800,75300,16
+Tennessee,bachelors,Milligan College,41200,74900,5
+Tennessee,bachelors,Lee University,41500,74500,3
+Tennessee,bachelors,O'More College of Design,41200,74200,0
+Tennessee,bachelors,King University,43100,74000,9
+Tennessee,bachelors,Tusculum College,40600,74000,4
+Tennessee,bachelors,Tennessee Wesleyan University,41600,73000,6
+Tennessee,bachelors,Bryan College-Dayton,39600,72000,2
+Tennessee,bachelors,Lincoln Memorial University,40800,71800,11
+Tennessee,bachelors,Le Moyne-Owen College,39500,71000,10
+Tennessee,bachelors,Bethel University (Tennessee),37900,64500,2
+Tennessee,bachelors,Johnson University,33600,59400,0
+Tennessee,associates,Tennessee State University,50200,69300,14
+Tennessee,associates,Lincoln Memorial University,48200,67800,11
+Tennessee,associates,Lane College,44100,65500,24
+Tennessee,associates,Southern Adventist University,45000,65300,9
+Tennessee,associates,Chattanooga State Community College,39400,59800,4
+Tennessee,associates,Southwest Tennessee Community College,39900,59600,4
+Tennessee,associates,Nashville State Community College,39500,59500,2
+Tennessee,associates,Pellissippi State Community College,37900,58400,5
+Tennessee,associates,Columbia State Community College,38600,58000,1
+Tennessee,associates,Volunteer State Community College,38600,58000,4
+Tennessee,associates,Walters State Community College,37800,57300,1
+Tennessee,associates,Roane State Community College,38500,57200,1
+Tennessee,associates,Dyersburg State Community College,40700,56800,1
+Tennessee,associates,Cleveland State Community College,36200,56100,2
+Tennessee,associates,Austin Peay State University,38000,55900,10
+Tennessee,associates,Jackson State Community College,38800,55700,3
+Tennessee,associates,Motlow State Community College,36400,55500,0
+Tennessee,associates,King University,36500,53600,9
+Tennessee,associates,John A Gupton College,35300,53600,0
+Tennessee,associates,Northeast State Community College,32400,51000,2
+Texas,bachelors,Rice University,71000,129500,45
+Texas,bachelors,The King's University,63800,116500,0
+Texas,bachelors,Texas A & M University-College Station,60600,115700,30
+Texas,bachelors,The University of Texas at Austin,60700,112800,28
+Texas,bachelors,Southern Methodist University,59700,110400,22
+Texas,bachelors,The University of Texas Health Science Center at Houston,65400,109400,14
+Texas,bachelors,Texas Tech University,56800,106500,22
+Texas,bachelors,Texas Tech University Health Sciences Center,61300,104900,3
+Texas,bachelors,University of Houston,56000,103900,24
+Texas,bachelors,The University of Texas Medical Branch,61100,103100,3
+Texas,bachelors,Trinity University,54900,102900,27
+Texas,bachelors,Baylor University,55500,101400,16
+Texas,bachelors,Lamar University,53300,101200,16
+Texas,bachelors,The University of Texas at Dallas,57100,100900,44
+Texas,bachelors,The University of Texas Health Science Center at San Antonio,59400,100200,4
+Texas,bachelors,The University of Texas at Arlington,55400,99500,22
+Texas,bachelors,Prairie View A & M University,57800,99400,22
+Texas,bachelors,LeTourneau University,56600,98900,21
+Texas,bachelors,Texas Christian University,56000,98700,9
+Texas,bachelors,Texas A & M University-Kingsville,53100,97500,53
+Texas,bachelors,University of Dallas,53000,96400,16
+Texas,bachelors,St. Mary's University,52900,95300,17
+Texas,bachelors,University of Houston-Clear Lake,50700,94800,29
+Texas,bachelors,Amberton University,52800,93600,0
+Texas,bachelors,Southwestern University,51800,93500,19
+Texas,bachelors,Austin College,52300,93100,25
+Texas,bachelors,The University of Texas at El Paso,49000,92100,24
+Texas,bachelors,University of St Thomas (Texas),50800,92000,7
+Texas,bachelors,The University of Texas of the Permian Basin,50900,91900,18
+Texas,bachelors,Brazosport College,51100,91500,2
+Texas,bachelors,Abilene Christian University,49700,90900,9
+Texas,bachelors,University of Houston-Downtown,51000,90900,6
+Texas,bachelors,Texas State University,50100,90600,11
+Texas,bachelors,University of North Texas,50300,90100,14
+Texas,bachelors,Sam Houston State University,49000,89900,6
+Texas,bachelors,Stephen F Austin State University,46800,89300,6
+Texas,bachelors,Houston Baptist University,49800,89300,8
+Texas,bachelors,Saint Edward's University,48700,89100,9
+Texas,bachelors,Concordia University-Texas,50000,88700,4
+Texas,bachelors,University of Houston-Victoria,50100,88200,12
+Texas,bachelors,Dallas Baptist University,48700,88100,3
+Texas,bachelors,McMurry University,48500,88000,11
+Texas,bachelors,Texas A & M University-Commerce,46800,87900,10
+Texas,bachelors,The University of Texas at San Antonio,50200,87500,24
+Texas,bachelors,Texas A & M University-Corpus Christi,49300,87000,15
+Texas,bachelors,University of Mary Hardin-Baylor,48600,86600,22
+Texas,bachelors,West Texas A & M University,47200,86200,8
+Texas,bachelors,Midwestern State University,50100,85200,14
+Texas,bachelors,The University of Texas at Tyler,49800,84700,12
+Texas,bachelors,Texas Lutheran University,47200,83600,17
+Texas,bachelors,Midland College,46900,83500,5
+Texas,bachelors,Texas Woman's University,47800,83400,4
+Texas,bachelors,Texas Wesleyan University,44600,82800,4
+Texas,bachelors,Hardin-Simmons University,47600,82000,10
+Texas,bachelors,Texas Southern University,45900,81900,12
+Texas,bachelors,Angelo State University,46200,81500,9
+Texas,bachelors,The University of Texas Rio Grande Valley,45500,81200,18
+Texas,bachelors,Tarleton State University,46000,80700,7
+Texas,bachelors,Wayland Baptist University,47400,80500,1
+Texas,bachelors,Lubbock Christian University,45000,80300,5
+Texas,bachelors,Howard Payne University,44900,79000,5
+Texas,bachelors,Our Lady of the Lake University,44300,78900,5
+Texas,bachelors,Texas A & M International University,43400,78100,16
+Texas,bachelors,University of the Incarnate Word,45900,77900,8
+Texas,bachelors,East Texas Baptist University,43600,77900,3
+Texas,bachelors,Southwestern Adventist University,43500,77600,13
+Texas,bachelors,Huston-Tillotson University,42400,77400,9
+Texas,bachelors,Texas A&M University-Texarkana,40700,74900,8
+Texas,bachelors,Sul Ross State University,41400,74500,6
+Texas,bachelors,Paul Quinn College,40700,72600,4
+Texas,bachelors,Schreiner University,39600,71600,11
+Texas,bachelors,Jarvis Christian College,38400,70300,6
+Texas,bachelors,Arlington Baptist University,38400,69800,0
+Texas,bachelors,College of Biblical Studies-Houston,38900,69100,0
+Texas,bachelors,Southwestern Assemblies of God University,39300,68400,0
+Texas,bachelors,Wiley College,36300,64900,7
+Texas,bachelors,Texas College,31400,56400,9
+Texas,associates,San Jacinto Community College,44700,72700,5
+Texas,associates,Brazosport College,42500,71500,2
+Texas,associates,Lamar Institute of Technology,48000,69000,1
+Texas,associates,College of the Mainland,45400,69000,2
+Texas,associates,Wayland Baptist University,48200,68600,1
+Texas,associates,Texas State Technical College,43300,68400,8
+Texas,associates,Galveston College,49200,68300,0
+Texas,associates,Odessa College,45800,67900,3
+Texas,associates,Tarleton State University,44800,67400,7
+Texas,associates,Brookhaven College,46100,67400,5
+Texas,associates,Wharton County Junior College,46400,67000,3
+Texas,associates,Alvin Community College,46600,66500,6
+Texas,associates,North Central Texas College,43900,66400,7
+Texas,associates,El Centro College,47300,66200,13
+Texas,associates,Austin Community College District,46000,66000,11
+Texas,associates,Houston Community College,41300,65900,4
+Texas,associates,Grayson College,44100,65600,3
+Texas,associates,LeTourneau University,44400,65400,21
+Texas,associates,Amarillo College,45300,65300,9
+Texas,associates,Dallas Baptist University,44000,64500,3
+Texas,associates,Del Mar College,45900,64400,2
+Texas,associates,Lee College,44800,64300,3
+Texas,associates,Vernon College,43600,64000,2
+Texas,associates,Tarrant County College District,41100,63800,6
+Texas,associates,Trinity Valley Community College,42700,63700,2
+Texas,associates,Lamar State College-Port Arthur,47100,63600,2
+Texas,associates,Collin County Community College District,42300,62900,5
+Texas,associates,Texas Southmost College,43100,62700,4
+Texas,associates,North Lake College,40800,62700,8
+Texas,associates,Victoria College,46300,62400,1
+Texas,associates,Central Texas College,41800,62400,3
+Texas,associates,Hallmark University,42600,62300,20
+Texas,associates,Lone Star College System,42900,62100,2
+Texas,associates,Texarkana College,40800,62100,4
+Texas,associates,Navarro College,43200,61800,2
+Texas,associates,Midland College,45300,61600,5
+Texas,associates,Richland College,41500,61300,6
+Texas,associates,Tyler Junior College,40600,61300,7
+Texas,associates,Kilgore College,41300,61100,2
+Texas,associates,Angelina College,41000,60900,2
+Texas,associates,San Antonio College,42200,60600,13
+Texas,associates,Eastfield College,38500,60500,0
+Texas,associates,Blinn College,40700,60400,11
+Texas,associates,Lamar State College-Orange,42800,60300,3
+Texas,associates,St Philip's College,42500,60100,3
+Texas,associates,McLennan Community College,40500,60100,4
+Texas,associates,Mountain View College,38000,59900,5
+Texas,associates,Howard College,39600,59700,6
+Texas,associates,El Paso Community College,38300,59700,9
+Texas,associates,Panola College,40200,59300,3
+Texas,associates,Temple College,41700,59300,7
+Texas,associates,Coastal Bend College,42300,59300,2
+Texas,associates,Laredo Community College,39700,59200,4
+Texas,associates,Northeast Texas Community College,39700,59100,1
+Texas,associates,Paris Junior College,38600,58300,4
+Texas,associates,Cisco College,39100,57800,1
+Texas,associates,Frank Phillips College,39400,57700,2
+Texas,associates,South Plains College,38300,57600,4
+Texas,associates,Dallas Institute of Funeral Service,39900,57200,0
+Texas,associates,Commonwealth Institute of Funeral Service,37100,56800,0
+Texas,associates,Western Texas College,37800,56700,19
+Texas,associates,Remington College-Dallas Campus,39500,56700,3
+Texas,associates,Weatherford College,40900,55300,2
+Texas,associates,South Texas College,35900,55000,18
+Texas,associates,Hill College,38900,54400,3
+Texas,associates,Southwest Texas Junior College,34900,53800,1
+Texas,associates,Clarendon College,34400,53400,2
+Texas,associates,Cedar Valley College,36000,52500,1
+Texas,associates,Northwest Vista College,34500,50200,9
+Texas,associates,Palo Alto College,31400,49300,8
+Utah,bachelors,Brigham Young University-Provo,59200,108000,25
+Utah,bachelors,University of Utah,54800,102600,22
+Utah,bachelors,Weber State University,53900,94000,8
+Utah,bachelors,Utah State University,52400,93900,14
+Utah,bachelors,Westminster College (Utah),51700,92200,10
+Utah,bachelors,Western Governors University,54500,91500,9
+Utah,bachelors,Utah Valley University,51100,90600,12
+Utah,bachelors,Southern Utah University,46400,84400,7
+Utah,bachelors,"Stevens-Henager College (Murray, Utah)",42400,76100,51
+Utah,bachelors,Independence University,40500,74100,2
+Utah,associates,Weber State University,42700,70000,8
+Utah,associates,Utah Valley University,42400,68700,12
+Utah,associates,Dixie State University,43500,68100,5
+Utah,associates,Salt Lake Community College,42900,64300,14
+Utah,associates,"Stevens-Henager College (West Haven, Utah)",41400,61300,8
+Utah,associates,Utah State University,37600,60400,14
+Utah,associates,Snow College,37400,57300,7
+Utah,associates,"Stevens-Henager College (Orem, Utah)",35400,53800,41
+Utah,associates,"Stevens-Henager College (Murray, Utah)",37200,53700,51
+Utah,associates,Southern Utah University,35600,53500,7
+Utah,associates,Independence University,36400,52900,2
+Vermont,bachelors,Middlebury College,60400,109800,19
+Vermont,bachelors,University of Vermont,53200,99400,22
+Vermont,bachelors,Norwich University,57000,99100,20
+Vermont,bachelors,Saint Michael's College,52900,98500,18
+Vermont,bachelors,Vermont Technical College,52400,93900,4
+Vermont,bachelors,Bennington College,48800,90000,5
+Vermont,bachelors,Champlain College,51100,88400,14
+Vermont,bachelors,College of St Joseph,47000,85000,0
+Vermont,bachelors,Southern Vermont College,42900,78700,17
+Vermont,bachelors,Goddard College,42700,76900,0
+Vermont,bachelors,Castleton University,41700,76200,6
+Vermont,bachelors,Green Mountain College,42000,75200,2
+Vermont,bachelors,Lyndon State College,41500,75100,8
+Vermont,bachelors,Johnson State College,39500,72100,2
+Vermont,associates,Vermont Technical College,47100,68000,4
+Vermont,associates,Castleton University,46200,65200,6
+Vermont,associates,Champlain College,46300,62900,14
+Vermont,associates,Southern Vermont College,40300,58600,17
+Vermont,associates,Community College of Vermont,37200,56400,3
+Vermont,associates,Lyndon State College,36600,54300,8
+Virginia,bachelors,Washington and Lee University,65900,123200,18
+Virginia,bachelors,Virginia Military Institute,65900,120600,47
+Virginia,bachelors,University of Virginia-Main Campus,64500,117500,23
+Virginia,bachelors,Virginia Polytechnic Institute and State University,62700,114000,42
+Virginia,bachelors,College of William and Mary,59000,108900,21
+Virginia,bachelors,Hampden-Sydney College,58300,108600,20
+Virginia,bachelors,University of Richmond,59800,107500,13
+Virginia,bachelors,George Mason University,58900,105700,23
+Virginia,bachelors,James Madison University,57400,102600,12
+Virginia,bachelors,University of Mary Washington,54200,98200,17
+Virginia,bachelors,Jefferson College of Health Sciences,55500,97600,1
+Virginia,bachelors,Marymount University,52300,93100,15
+Virginia,bachelors,Hampton University,52700,92600,12
+Virginia,bachelors,Old Dominion University,50200,89900,19
+Virginia,bachelors,Lynchburg College,47700,89100,11
+Virginia,bachelors,Virginia Commonwealth University,49900,88200,18
+Virginia,bachelors,Christopher Newport University,50800,87200,25
+Virginia,bachelors,Shenandoah University,48700,86600,7
+Virginia,bachelors,Randolph College,47000,86100,23
+Virginia,bachelors,Roanoke College,48500,85100,18
+Virginia,bachelors,Longwood University,47300,83300,9
+Virginia,bachelors,Radford University,48900,82900,10
+Virginia,bachelors,The University of Virginia's College at Wise,46500,82600,5
+Virginia,bachelors,Virginia State University,44900,81800,14
+Virginia,bachelors,Ferrum College,43000,80600,6
+Virginia,bachelors,Sweet Briar College,44700,79700,20
+Virginia,bachelors,Averett University-Non-Traditional Programs,44800,79600,1
+Virginia,bachelors,Bridgewater College,43100,79200,19
+Virginia,bachelors,Hollins University,42000,78000,12
+Virginia,bachelors,Virginia Wesleyan University,44800,77700,12
+Virginia,bachelors,Eastern Mennonite University,43600,77100,5
+Virginia,bachelors,Regent University,41600,76900,1
+Virginia,bachelors,Norfolk State University,43900,76100,17
+Virginia,bachelors,Bluefield College,42800,74000,6
+Virginia,bachelors,Liberty University,44000,73600,1
+Virginia,bachelors,Averett University,41000,72300,6
+Virginia,bachelors,Mary Baldwin University,39200,71600,5
+Virginia,bachelors,Virginia Union University,40600,71000,10
+Virginia,bachelors,Emory & Henry College,39500,70700,11
+Virginia,associates,Regent University,49900,75300,1
+Virginia,associates,Northern Virginia Community College,46700,72200,12
+Virginia,associates,Jefferson College of Health Sciences,50200,71000,1
+Virginia,associates,Virginia Polytechnic Institute and State University,46700,70200,42
+Virginia,associates,Norfolk State University,47500,69300,17
+Virginia,associates,John Tyler Community College,43700,61900,3
+Virginia,associates,Piedmont Virginia Community College,42700,61500,4
+Virginia,associates,Dabney S Lancaster Community College,39600,61200,2
+Virginia,associates,Lord Fairfax Community College,40700,61100,4
+Virginia,associates,Virginia Western Community College,40800,61100,6
+Virginia,associates,Richard Bland College of William and Mary,40900,60500,90
+Virginia,associates,J Sargeant Reynolds Community College,41200,59700,5
+Virginia,associates,Germanna Community College,41800,59700,3
+Virginia,associates,Thomas Nelson Community College,38100,59200,6
+Virginia,associates,Liberty University,39100,58200,1
+Virginia,associates,Paul D Camp Community College,39100,58100,1
+Virginia,associates,Wytheville Community College,38200,57600,1
+Virginia,associates,New River Community College,38700,56600,2
+Virginia,associates,Tidewater Community College,38800,56400,5
+Virginia,associates,Blue Ridge Community College (Virginia),37800,56000,1
+Virginia,associates,Southwest Virginia Community College,37800,56000,2
+Virginia,associates,Patrick Henry Community College,35700,55100,4
+Virginia,associates,Rappahannock Community College,39400,55100,4
+Virginia,associates,Central Virginia Community College,34600,54300,2
+Virginia,associates,Mountain Empire Community College,35700,53700,4
+Virginia,associates,Virginia Highlands Community College,34700,53600,2
+Virginia,associates,Danville Community College,34900,53200,3
+Virginia,associates,Southside Virginia Community College,35100,53100,2
+Virginia,associates,Eastern Shore Community College,34900,52800,0
+Washington,bachelors,Seattle University,60600,113700,12
+Washington,bachelors,University of Washington-Seattle Campus,61900,112300,34
+Washington,bachelors,University of Washington-Bothell Campus,60200,108000,26
+Washington,bachelors,Gonzaga University,57800,107600,19
+Washington,bachelors,Washington State University,55900,103700,20
+Washington,bachelors,Seattle Pacific University,53600,103400,9
+Washington,bachelors,Whitman College,54600,102600,33
+Washington,bachelors,University of Puget Sound,54200,101300,21
+Washington,bachelors,Western Washington University,55000,99300,16
+Washington,bachelors,Pacific Lutheran University,54500,98100,20
+Washington,bachelors,Walla Walla University,53700,97800,22
+Washington,bachelors,University of Washington-Tacoma Campus,56000,96800,23
+Washington,bachelors,City University of Seattle,51500,94600,4
+Washington,bachelors,Central Washington University,52700,93200,13
+Washington,bachelors,Saint Martin's University,53200,91800,29
+Washington,bachelors,Northwest University,50900,89000,3
+Washington,bachelors,Whitworth University,49900,88800,18
+Washington,bachelors,Bellevue College,50100,88500,14
+Washington,bachelors,Whitworth University-Adult Degree Programs,50100,88100,0
+Washington,bachelors,Eastern Washington University,49500,87500,17
+Washington,bachelors,Cornish College of the Arts,49000,86400,0
+Washington,bachelors,Bastyr University,48400,86300,0
+Washington,bachelors,The Evergreen State College,47500,83500,0
+Washington,bachelors,Clark College,43500,78400,9
+Washington,bachelors,Heritage University,41100,73600,17
+Washington,associates,Bellevue College,48400,76700,14
+Washington,associates,Perry Technical Institute,51100,74300,0
+Washington,associates,Shoreline Community College,48800,70800,5
+Washington,associates,Lake Washington Institute of Technology,47900,69600,15
+Washington,associates,Bates Technical College,48200,69500,2
+Washington,associates,Seattle Central College,49600,67300,11
+Washington,associates,North Seattle College,46400,66900,7
+Washington,associates,Bellingham Technical College,46800,66900,10
+Washington,associates,Green River College,45300,66800,14
+Washington,associates,Renton Technical College,47400,66700,11
+Washington,associates,Edmonds Community College,45300,66700,25
+Washington,associates,South Seattle College,44300,66600,9
+Washington,associates,Columbia Basin College,41200,66600,8
+Washington,associates,Pierce College-Puyallup,42400,66400,19
+Washington,associates,Pierce College-Fort Steilacoom,43500,65800,4
+Washington,associates,Walla Walla Community College,43700,65300,6
+Washington,associates,City University of Seattle,44800,65200,4
+Washington,associates,Centralia College,42200,64900,2
+Washington,associates,Wenatchee Valley College,42600,64600,5
+Washington,associates,Highline College,42600,64100,9
+Washington,associates,Clark College,41000,64100,9
+Washington,associates,South Puget Sound Community College,42000,63200,9
+Washington,associates,Tacoma Community College,43600,63000,13
+Washington,associates,Clover Park Technical College,41000,62600,13
+Washington,associates,Everett Community College,42200,62500,8
+Washington,associates,Whatcom Community College,43100,62200,7
+Washington,associates,Skagit Valley College,41800,62000,7
+Washington,associates,Olympic College,42700,61900,3
+Washington,associates,Spokane Community College,42900,61400,3
+Washington,associates,Peninsula College,40700,61000,11
+Washington,associates,Lower Columbia College,42700,60500,7
+Washington,associates,Yakima Valley College,40900,58900,5
+Washington,associates,Grays Harbor College,38800,58900,4
+Washington,associates,Big Bend Community College,39100,55200,5
+Washington,associates,Spokane Falls Community College,37200,53900,6
+"Washington, D.C.",bachelors,Georgetown University,66400,122200,14
+"Washington, D.C.",bachelors,George Washington University,61400,115300,15
+"Washington, D.C.",bachelors,Catholic University of America,57300,105100,14
+"Washington, D.C.",bachelors,American University,55700,102900,3
+"Washington, D.C.",bachelors,Howard University,55200,101300,16
+"Washington, D.C.",bachelors,University of the District of Columbia,50800,87400,10
+"Washington, D.C.",bachelors,Gallaudet University,41100,74100,5
+"Washington, D.C.",associates,University of the District of Columbia,47100,67300,10
+"Washington, D.C.",associates,George Washington University,41300,65000,15
+West Virginia,bachelors,West Virginia University Institute of Technology,57100,103700,40
+West Virginia,bachelors,West Virginia University,54400,99900,22
+West Virginia,bachelors,Alderson Broaddus University,50600,90500,15
+West Virginia,bachelors,Shepherd University,47100,87100,12
+West Virginia,bachelors,West Virginia Wesleyan College,47000,85200,21
+West Virginia,bachelors,Bethany College (West Virginia),46000,84900,5
+West Virginia,bachelors,Wheeling Jesuit University,44800,83400,5
+West Virginia,bachelors,University of Charleston,44600,81900,4
+West Virginia,bachelors,Marshall University,45000,79700,12
+West Virginia,bachelors,West Liberty University,42500,77000,6
+West Virginia,bachelors,Davis & Elkins College,41100,76500,10
+West Virginia,bachelors,West Virginia State University,41800,76000,8
+West Virginia,bachelors,Concord University,41700,75800,9
+West Virginia,bachelors,Fairmont State University,42900,74100,7
+West Virginia,bachelors,Bluefield State College,43200,72800,3
+West Virginia,bachelors,Ohio Valley University,38800,71100,1
+West Virginia,bachelors,Glenville State College,37400,67700,3
+West Virginia,bachelors,West Virginia University at Parkersburg,36700,65200,3
+West Virginia,associates,University of Charleston,46800,65600,4
+West Virginia,associates,Davis & Elkins College,46300,64000,10
+West Virginia,associates,West Liberty University,41700,62400,6
+West Virginia,associates,Fairmont State University,41100,61500,7
+West Virginia,associates,Bluefield State College,41300,58900,3
+West Virginia,associates,West Virginia University at Parkersburg,39800,58300,3
+West Virginia,associates,Southern West Virginia Community and Technical College,38000,57300,4
+West Virginia,associates,Marshall University,42400,56800,12
+West Virginia,associates,Blue Ridge Community and Technical College,38200,56400,9
+West Virginia,associates,Potomac State College of West Virginia University,36100,55800,7
+West Virginia,associates,West Virginia Northern Community College,36400,54400,5
+West Virginia,associates,Mountwest Community and Technical College,35800,53400,6
+Wisconsin,bachelors,Milwaukee School of Engineering,65700,117600,69
+Wisconsin,bachelors,Marquette University,57800,105900,25
+Wisconsin,bachelors,University of Wisconsin-Madison,57300,104400,33
+Wisconsin,bachelors,University of Wisconsin-Platteville,56800,100300,38
+Wisconsin,bachelors,Lawrence University,51500,98800,25
+Wisconsin,bachelors,Bellin College,55800,97600,0
+Wisconsin,bachelors,University of Wisconsin-Eau Claire,52100,93600,14
+Wisconsin,bachelors,Marian University (Wisconsin),46500,90800,2
+Wisconsin,bachelors,University of Wisconsin-Milwaukee,50600,90300,17
+Wisconsin,bachelors,Ripon College,46300,89600,26
+Wisconsin,bachelors,University of Wisconsin-Stout,50400,89500,14
+Wisconsin,bachelors,University of Wisconsin-Whitewater,48900,89300,8
+Wisconsin,bachelors,Saint Norbert College,49300,88700,15
+Wisconsin,bachelors,University of Wisconsin-La Crosse,49600,88300,19
+Wisconsin,bachelors,Edgewood College,49500,87500,5
+Wisconsin,bachelors,Carroll University,45600,86500,14
+Wisconsin,bachelors,Beloit College,47400,85700,24
+Wisconsin,bachelors,Carthage College,48900,85400,17
+Wisconsin,bachelors,University of Wisconsin-Oshkosh,47700,84300,10
+Wisconsin,bachelors,Cardinal Stritch University,47000,82500,2
+Wisconsin,bachelors,Wisconsin Lutheran College,46200,82500,10
+Wisconsin,bachelors,Viterbo University,46800,81900,3
+Wisconsin,bachelors,Concordia University-Wisconsin,46700,81600,9
+Wisconsin,bachelors,University of Wisconsin-Parkside,46000,81400,17
+Wisconsin,bachelors,University of Wisconsin-River Falls,47100,81300,14
+Wisconsin,bachelors,University of Wisconsin-Stevens Point,45200,80600,15
+Wisconsin,bachelors,Herzing University-Madison,46400,80400,6
+Wisconsin,bachelors,University of Wisconsin-Superior,44000,79700,9
+Wisconsin,bachelors,Ottawa University-Milwaukee,44700,78600,2
+Wisconsin,bachelors,Alverno College,44300,77100,5
+Wisconsin,bachelors,Milwaukee Institute of Art & Design,43600,76900,0
+Wisconsin,bachelors,Lakeland University,45600,76500,10
+Wisconsin,bachelors,Silver Lake College of the Holy Family,42500,76100,3
+Wisconsin,bachelors,Mount Mary University,42700,75900,2
+Wisconsin,bachelors,University of Wisconsin-Green Bay,44300,75500,6
+Wisconsin,bachelors,Maranatha Baptist University,40500,72300,3
+Wisconsin,bachelors,Northland College,38500,70200,28
+Wisconsin,associates,University of Wisconsin-Whitewater,45500,66800,8
+Wisconsin,associates,Cardinal Stritch University,46900,66200,2
+Wisconsin,associates,Concordia University-Wisconsin,43400,63400,9
+Wisconsin,associates,University of Wisconsin Colleges,38300,62700,0
+Wisconsin,associates,Waukesha County Technical College,42700,62700,6
+Wisconsin,associates,University of Wisconsin-Stevens Point,40700,61200,15
+Wisconsin,associates,Herzing University-Madison,39500,61200,6
+Wisconsin,associates,Milwaukee Area Technical College,42400,60500,5
+Wisconsin,associates,Madison Area Technical College,42600,60400,7
+Wisconsin,associates,Southwest Wisconsin Technical College,42200,60400,4
+Wisconsin,associates,Blackhawk Technical College,42500,59100,3
+Wisconsin,associates,Mid-State Technical College,42000,59000,5
+Wisconsin,associates,Chippewa Valley Technical College,42700,58700,14
+Wisconsin,associates,Northeast Wisconsin Technical College,41100,58500,5
+Wisconsin,associates,Northcentral Technical College,41400,58500,7
+Wisconsin,associates,Gateway Technical College,41400,58400,5
+Wisconsin,associates,Moraine Park Technical College,41900,58200,5
+Wisconsin,associates,Fox Valley Technical College,41900,57500,4
+Wisconsin,associates,Western Technical College,40400,57300,4
+Wisconsin,associates,Wisconsin Indianhead Technical College,40900,56800,3
+Wisconsin,associates,Lakeshore Technical College,41200,56600,4
+Wisconsin,associates,Nicolet Area Technical College,38000,55300,6
+Wyoming,bachelors,University of Wyoming,52400,98800,25
+Wyoming,associates,Sheridan College,45900,66500,2
+Wyoming,associates,Western Wyoming Community College,44600,66300,12
+Wyoming,associates,Casper College,44700,66000,5
+Wyoming,associates,Laramie County Community College,45900,65200,5
+Wyoming,associates,Wyotech-Laramie,43400,64000,0
+Wyoming,associates,Central Wyoming College,41100,60000,5
+Wyoming,associates,Northwest College,38000,56100,8
