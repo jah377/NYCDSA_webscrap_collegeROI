@@ -3,7 +3,7 @@ College selection is an exciting, yet anxiety-inducing, process for high school 
 
 ## Related Blog post:
 
-NYC Data Science Academy link: https://nycdatascience.com/blog/student-works/effect-of-college-selection-on-roi/
+Blog: https://nycdatascience.com/blog/student-works/effect-of-college-selection-on-roi/
 
 
 ## Author Information:
